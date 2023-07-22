@@ -1,6 +1,5 @@
 # 🎲 DICE
 
-# Workflow
 ## Step 1. Define the architecture of encoders and decoders
 * Encoder: BERT
 * Decoder: GPT-2 / Llama
