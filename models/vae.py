@@ -3,7 +3,10 @@
 # Date: 2023-07-22
 
 # Definition of VAE encoder / decoder
+import sys 
+sys.path.append("..") 
 
+import utils
 import torch
 from torch import nn
 from transformers.adapters import LoRAConfig
@@ -72,20 +75,9 @@ class VAE(nn.Module):
         self.encoder = Encoder(self.encoder_config)
         self.decoder = Decoder(self.decoder_config)
 
-        trainable_params = 0
-        frozen_params = 0
-
-        for name, param in self.decoder.named_parameters():
-            if not param.requires_grad:
-                print(f"🥶 Frozen layer '{name}'")
-                frozen_params += param.numel()
-            else:
-                print(f"🚀 Trainable layer '{name}'")
-                trainable_params += param.numel()
-        
-        print(f"Total frozen parameters: {frozen_params}")
-        print(f"Total trainable parameters: {trainable_params}")
-        print(f"Trainable Precentage: {(trainable_params / (frozen_params + trainable_params)) * 100:.3}%")
+        # Check encoder / decoder
+        utils.model_check(self.encoder)
+        utils.model_check(self.decoder)
 
     def kl_loss(self, mean, logvar):
         # Kullback–Leibler Divergence with the prior Gaussian distribution
