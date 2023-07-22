@@ -13,5 +13,5 @@
 MLP classifiers for each attribute.
 
 ## Step 4. Inference
-ODE sampler on the VAE latent variable.
+ODE sampler (guided by the EBMs) on the VAE latent variable.
 
