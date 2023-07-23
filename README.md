@@ -3,7 +3,7 @@
 ## Step 1. Define the architecture of encoders and decoders
 * Encoder: BERT
 * Decoder: GPT-2 / Llama
-* Dataset: [C4](https://huggingface.co/datasets/c4)
+* Dataset: [C4](https://huggingface.co/datasets/c4) / [WikiText](https://huggingface.co/datasets/wikitext)
 
 ## Step 2. Train the model in the VAE manner
 * Encoder: Full-sized parameters

@@ -9,7 +9,7 @@ sys.path.append("..")
 import utils
 import torch
 from torch import nn
-from transformers.adapters import LoRAConfig
+from peft import LoraConfig, TaskType, get_peft_model
 from transformers import AutoTokenizer, AutoModel, AutoModelForCausalLM
 
 class Encoder(nn.Module):
@@ -39,20 +39,20 @@ class Decoder(nn.Module):
         self.model_name = config["model_name"]
         self.tokenizer_name = config["tokenizer_name"]
 
-
         self.model = AutoModelForCausalLM.from_pretrained(self.model_name)
-        lora_config = LoRAConfig(selfattn_lora=True, intermediate_lora=False, r=8, alpha=8)
-        self.model.add_adapter("LoRA", config=lora_config)
-        self.model.train_adapter('LoRA', train_embeddings=True)
 
+        self.peft_config = LoraConfig(task_type=TaskType.CAUSAL_LM, inference_mode=False, r=8, lora_alpha=32, lora_dropout=0.1)   
+        self.model = get_peft_model(self.model, self.peft_config)
+        
         self.tokenizer = AutoTokenizer.from_pretrained(self.tokenizer_name)
+        self.tokenizer.pad_token = self.tokenizer.eos_token
 
         self.hidden_size = config["hidden_size"]
         self.latent_size = config["latent_size"]
 
         self.latent_emb_layer = nn.Linear(self.latent_size, self.hidden_size, bias=False)
 
-    def forward(self, input_ids, latent_z, labels, past_key_values=None, attention_mask=None):
+    def forward(self, input_ids, attention_mask, latent_z, labels, past_key_values=None):
         # Used as embeddings to add on other embeddings
         latent_emb = self.latent_emb_layer(latent_z).unsqueeze(1)
         inputs_embeds = self.model.transformer.wte(input_ids)
@@ -98,22 +98,22 @@ class VAE(nn.Module):
 
         return eps.mul(std) + mean
     
-    def forward(self, inputs, labels):
+    def forward(self, encoder_input_ids, encoder_attention_mask, decoder_input_ids, decoder_attention_mask, decoder_labels):
         # Encoder
-        encoder_attention_mask = (inputs!=self.encoder.tokenizer.pad_token_id).float()
-        encoder_outputs = self.encoder(inputs, encoder_attention_mask)
+        encoder_attention_mask = (encoder_input_ids!=self.encoder.tokenizer.pad_token_id).float()
+        encoder_outputs = self.encoder(encoder_input_ids, encoder_attention_mask)
 
         # Connect
         latent_z = self.reparameterize(mean=encoder_outputs[0], logvar=encoder_outputs[1], n_samples=1).squeeze(1)
 
         # Decoder
-        decoder_outputs = self.decoder(input_ids=inputs, latent_z=latent_z, labels=labels, attention_mask=None)
+        decoder_outputs = self.decoder(input_ids=decoder_input_ids, attention_mask=decoder_attention_mask, latent_z=latent_z, labels=decoder_labels)
 
         # Loss
         kl_loss = self.kl_loss(mean=encoder_outputs[0], logvar=encoder_outputs[1])
         reconstruction_loss = decoder_outputs.loss
 
-        return kl_loss, reconstruction_loss
+        return kl_loss, reconstruction_loss, encoder_outputs, decoder_outputs
 
 if __name__ == "__main__":
     vae_config = {
@@ -133,6 +133,19 @@ if __name__ == "__main__":
 
     vae = VAE(vae_config)
 
-    inputs = vae.encoder.tokenizer("Hello, my dog is cute", return_tensors="pt")
+    input_str = "Chinese girls are"
+    for i in range(10):
+        encoder_inputs = vae.encoder.tokenizer([input_str], return_tensors="pt")
+        decoder_inputs = vae.decoder.tokenizer([input_str], return_tensors="pt")
 
-    vae(inputs=inputs.input_ids, labels=inputs.input_ids)
+        kl_loss, reconstruction_loss, encoder_outputs, decoder_outputs = vae(
+                encoder_input_ids=encoder_inputs["input_ids"], 
+                encoder_attention_mask=encoder_inputs["attention_mask"],
+                decoder_input_ids=decoder_inputs["input_ids"], 
+                decoder_attention_mask=decoder_inputs["attention_mask"],
+                decoder_labels=decoder_inputs["input_ids"],
+        )
+        logits = decoder_outputs[1]
+        next_token = vae.decoder.tokenizer.decode(torch.argmax(logits[0][-1]))
+        input_str += next_token
+        print(input_str)
