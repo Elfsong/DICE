@@ -30,7 +30,7 @@ wandb.init(
         "hidden_size": 768,
         "train_sample_size": 8000,
         "eval_sample_size": 1000,
-        "train_batch_size": 6,
+        "train_batch_size": 12,
         "eval_batch_size": 4,
         "random_seed": 42,
         "num_warmup_steps": 400,
