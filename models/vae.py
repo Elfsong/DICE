@@ -41,7 +41,10 @@ class Decoder(nn.Module):
 
         self.model = AutoModelForCausalLM.from_pretrained(self.model_name)
 
-        self.peft_config = LoraConfig(task_type=TaskType.CAUSAL_LM, inference_mode=False, r=8, lora_alpha=32, lora_dropout=0.1)   
+        if "gpt" in self.model_name:
+            self.peft_config = LoraConfig(task_type=TaskType.CAUSAL_LM, inference_mode=False, r=8, lora_alpha=32, lora_dropout=0.1)   
+        else:
+            self.peft_config = LoraConfig(task_type=TaskType.CAUSAL_LM, target_modules=['q_proj', 'v_proj'], inference_mode=False, r=4, lora_alpha=16, lora_dropout=0.1)
         self.model = get_peft_model(self.model, self.peft_config)
         
         self.tokenizer = AutoTokenizer.from_pretrained(self.tokenizer_name)
@@ -55,7 +58,11 @@ class Decoder(nn.Module):
     def forward(self, input_ids, attention_mask, latent_z, labels, past_key_values=None):
         # Used as embeddings to add on other embeddings
         latent_emb = self.latent_emb_layer(latent_z).unsqueeze(1)
-        inputs_embeds = self.model.transformer.wte(input_ids)
+        if "gpt" in self.model_name:
+            inputs_embeds = self.model.transformer.wte(input_ids)
+        else:
+            inputs_embeds = self.model.base_model.model.model.embed_tokens(input_ids)
+
         inputs_embeds = latent_emb + inputs_embeds
 
         # TODO(mingzhe): past_key_values as memory
@@ -124,9 +131,9 @@ if __name__ == "__main__":
             "latent_size": 128,
         },
         "decoder": {
-            "model_name": 'gpt2',
-            "tokenizer_name": 'gpt2',
-            "hidden_size": 768,
+            "model_name": 'decapoda-research/llama-7b-hf',
+            "tokenizer_name": 'decapoda-research/llama-7b-hf',
+            "hidden_size": 4096,
             "latent_size": 128,
         },
     }
