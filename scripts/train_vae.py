@@ -28,7 +28,7 @@ wandb.init(
         "learning_rate": 1e-5,
         "latent_size": 128,
         "hidden_size": 768,
-        "train_sample_size": 1000,
+        "train_sample_size": 5000,
         "eval_sample_size": 1000,
         "train_batch_size": 1,
         "eval_batch_size": 4,
@@ -127,8 +127,14 @@ for epoch in range(wandb.config["epochs"]):
         optimizer.zero_grad()
         train_progress_bar.update(1)
 
-# print("⏱️ Saving the model...")
-# print("🟢 Model Saved")
+print("⏱️ Saving the model...")
+torch.save(vae.state_dict(), os.path.join("../checkpoints", f'model_latest.pt'))
+print("🟢 Model Saved")
+
+new_vae = VAE(vae_config)
+checkpoint = torch.load(os.path.join("../checkpoints", f'model_latest.pt'))
+new_vae.load_state_dict(checkpoint, strict=False)
+new_vae.to(device)
 
 # Play Play
 vae.eval()
@@ -147,6 +153,40 @@ for i in range(10):
     )
     logits = decoder_outputs[1]
     next_token = vae.decoder.tokenizer.decode(torch.argmax(logits[0][-1]))
+    input_str += next_token
+    print(input_str)
+
+input_str = "Many people live in"
+for i in range(10):
+    encoder_inputs = vae.encoder.tokenizer([input_str], return_tensors="pt").to(device)
+    decoder_inputs = vae.decoder.tokenizer([input_str], return_tensors="pt").to(device)
+
+    kl_loss, reconstruction_loss, encoder_outputs, decoder_outputs = vae(
+            encoder_input_ids=encoder_inputs["input_ids"], 
+            encoder_attention_mask=encoder_inputs["attention_mask"],
+            decoder_input_ids=decoder_inputs["input_ids"], 
+            decoder_attention_mask=decoder_inputs["attention_mask"],
+            decoder_labels=decoder_inputs["input_ids"],
+    )
+    logits = decoder_outputs[1]
+    next_token = vae.decoder.tokenizer.decode(torch.argmax(logits[0][-1]))
+    input_str += next_token
+    print(input_str)
+
+input_str = "Many people live in"
+for i in range(10):
+    encoder_inputs = new_vae.encoder.tokenizer([input_str], return_tensors="pt").to(device)
+    decoder_inputs = new_vae.decoder.tokenizer([input_str], return_tensors="pt").to(device)
+
+    kl_loss, reconstruction_loss, encoder_outputs, decoder_outputs = new_vae(
+            encoder_input_ids=encoder_inputs["input_ids"], 
+            encoder_attention_mask=encoder_inputs["attention_mask"],
+            decoder_input_ids=decoder_inputs["input_ids"], 
+            decoder_attention_mask=decoder_inputs["attention_mask"],
+            decoder_labels=decoder_inputs["input_ids"],
+    )
+    logits = decoder_outputs[1]
+    next_token = new_vae.decoder.tokenizer.decode(torch.argmax(logits[0][-1]))
     input_str += next_token
     print(input_str)
 
