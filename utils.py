@@ -4,6 +4,10 @@
 
 import numpy as np
 
+def model_freeze(model):
+    for param in model.parameters():
+        param.requires_grad = False
+
 def model_check(model):
     print("=" * 50)
     trainable_params = 0
@@ -24,10 +28,12 @@ def model_check(model):
 def tokenize_function(example, tokenizer, prefix, min_length=10, max_length=500):
     # 1000 (< max_length 1024) to make sure _attn works
     # TODO(mingzhe): Change the hard code
+    tmp = tokenizer(example["text"], padding='max_length', max_length=max_length, truncation=True)
+    return {prefix + str(key): val for key, val in tmp.items()}
 
-    if len(example["text"]) >= min_length:
-        tmp = tokenizer(example["text"], padding='max_length', max_length=max_length, truncation=True)
-        return {prefix + str(key): val for key, val in tmp.items()}
+def label_function(example):
+    label_map = {"male": 0, "female": 1, "neutral": 2}
+    return {"label": [label_map[label] for label in example["label"]]}
 
 def frange_cycle_zero_linear(n_iter, start=0.0, stop=1.0,  n_cycle=4, ratio_increase=0.5, ratio_zero=0.25):
     L = np.ones(n_iter) * stop

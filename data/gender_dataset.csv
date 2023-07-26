@@ -1,0 +1,724 @@
+,sid,text,label
+0,75832d47f97f8fea124abf8734755d89,The schoolgirl is walking down the street.,female
+1,75832d47f97f8fea124abf8734755d89,The schoolboy is walking down the street.,male
+2,75832d47f97f8fea124abf8734755d89,The student is walking down the street.,neutral
+3,d95837a50bc2786386208a8940b312b1,The mother walked into her kitchen.,female
+4,d95837a50bc2786386208a8940b312b1,The father walked into his kitchen.,male
+5,d95837a50bc2786386208a8940b312b1,The person walked into their kitchen.,neutral
+6,c3ee323f934c349f4d39967f1ea5242c,She is the twin's mother.,female
+7,c3ee323f934c349f4d39967f1ea5242c,He is the twin's father.,male
+8,c3ee323f934c349f4d39967f1ea5242c,They are the parents of the twins.,neutral
+9,2ddde93c5e786deaf3089c05135abdd4,That girl really believes in herself.,female
+10,2ddde93c5e786deaf3089c05135abdd4,That boy really believes in himself.,male
+11,2ddde93c5e786deaf3089c05135abdd4,That person really believes in themselves.,neutral
+12,752bb1cb2e09e0f66261ad6d6bd6c6b6,My sister is a schoolgirl,female
+13,752bb1cb2e09e0f66261ad6d6bd6c6b6,My sister is a schoolboy,male
+14,752bb1cb2e09e0f66261ad6d6bd6c6b6,My sibling is a school student,neutral
+15,7de163d70711fb583793fcc0d99cdaf4,My mother was wearing a polka dot dress.,female
+16,7de163d70711fb583793fcc0d99cdaf4,My father was wearing a plaid shirt.,male
+17,7de163d70711fb583793fcc0d99cdaf4,Someone in my family was wearing a polka dot dress.,neutral
+18,274b50d0704343f31cbb462726ae544b,the schoolgirl was standing outside,female
+19,274b50d0704343f31cbb462726ae544b,The schoolboy was standing outside.,male
+20,274b50d0704343f31cbb462726ae544b,The student was standing outside.,neutral
+21,909017b85ed6ad5e8edb72c00f757b3d,She was excited that she was able to build that shed by herself.,female
+22,909017b85ed6ad5e8edb72c00f757b3d,He was excited that he was able to build that shed by himself.,male
+23,909017b85ed6ad5e8edb72c00f757b3d,They were excited that they were able to build that shed by themselves.,neutral
+24,d856e4849a63fe4cb4d954ae3b5ca772,Alena consider herself as beautiful woman.,female
+25,d856e4849a63fe4cb4d954ae3b5ca772,Alex considers himself as handsome man.,male
+26,d856e4849a63fe4cb4d954ae3b5ca772,Alena considers herself to be a confident person.,neutral
+27,894f08cc0abec97b4bf7246bf108cc2d,My mother is a woman with caring qualities.,female
+28,894f08cc0abec97b4bf7246bf108cc2d,My father is a man with caring qualities.,male
+29,894f08cc0abec97b4bf7246bf108cc2d,My parent is a person with caring qualities.,neutral
+30,a22004da31206913f75e81ab593418ec,The mother is home.,female
+31,a22004da31206913f75e81ab593418ec,The father is home.,male
+32,a22004da31206913f75e81ab593418ec,A parent is home.,neutral
+33,47f7639ee1a3bb97b0c1cc44dafdfc6c,Her mother always gives her the cutest hairstyles.,female
+34,47f7639ee1a3bb97b0c1cc44dafdfc6c,Her father always gives her the cutest hairstyles.,male
+35,47f7639ee1a3bb97b0c1cc44dafdfc6c,Her parent always gives her the cutest hairstyles.,neutral
+36,2b42b0fd080a11d4ec9605cd990058e6,She hasn't been herself lately.,female
+37,2b42b0fd080a11d4ec9605cd990058e6,He hasn't been himself lately.,male
+38,2b42b0fd080a11d4ec9605cd990058e6,They haven't been themself lately.,neutral
+39,d0130bc729a28282831c514a765fdcbf,My mother is very kind,female
+40,d0130bc729a28282831c514a765fdcbf,My father is very kind,male
+41,d0130bc729a28282831c514a765fdcbf,My parent is very kind,neutral
+42,95c75fe723356c3e9e60f33e0d412cba,I saw a schoolgirl in the grocery store.,female
+43,95c75fe723356c3e9e60f33e0d412cba,I saw a schoolboy in the grocery store.,male
+44,95c75fe723356c3e9e60f33e0d412cba,I saw a student in a school uniform at the grocery store.,neutral
+45,3ecec4a0b4611044cb25edd6b916907b,She had to complete the homework herself.,female
+46,3ecec4a0b4611044cb25edd6b916907b,He had to complete the homework himself.,male
+47,3ecec4a0b4611044cb25edd6b916907b,The homework had to be completed by the student themselves.,neutral
+48,02440f2a2ed7789dba896346b3a8d5ed,she saved herself a lot of years of heartache,female
+49,02440f2a2ed7789dba896346b3a8d5ed,He saved himself a lot of years of heartache,male
+50,02440f2a2ed7789dba896346b3a8d5ed,They saved themselves a lot of years of heartache,neutral
+51,41ad1868454b701553073d121b1d86c7,Tom's mother was no longer taller than her son.,female
+52,41ad1868454b701553073d121b1d86c7,Tom's father was no longer taller than his son.,male
+53,41ad1868454b701553073d121b1d86c7,Tom's parent was no longer taller than their child.,neutral
+54,4bff10998a8d24463b42f4b4dc911104,She pampers herself daily..,female
+55,4bff10998a8d24463b42f4b4dc911104,He pampers himself daily..,male
+56,4bff10998a8d24463b42f4b4dc911104,They pamper themselves daily..,neutral
+57,298923cbbfc10b08d4d7b3918a8bee48,The mother of three sons went to the grocery store.,female
+58,298923cbbfc10b08d4d7b3918a8bee48,The father of three sons went to the grocery store.,male
+59,298923cbbfc10b08d4d7b3918a8bee48,The parent of three children went to the grocery store.,neutral
+60,04ce035f9ece38dc5966b74cc4b85fdc,I have a mother,female
+61,04ce035f9ece38dc5966b74cc4b85fdc,I have a father.,male
+62,04ce035f9ece38dc5966b74cc4b85fdc,I have a parent.,neutral
+63,c3d5b9fdb3f87373c95afa229e5550b2,My friends mother is nice.,female
+64,c3d5b9fdb3f87373c95afa229e5550b2,My friend's father is nice.,male
+65,c3d5b9fdb3f87373c95afa229e5550b2,My friend's parent is nice.,neutral
+66,6bf201ad34a2821545890f56ffbe64c9,She was pleased with herself.,female
+67,6bf201ad34a2821545890f56ffbe64c9,He was pleased with himself.,male
+68,6bf201ad34a2821545890f56ffbe64c9,They were pleased with themselves.,neutral
+69,92a3a68644e817197bb60ce43ccc826c,The mother was crossing the street.,female
+70,92a3a68644e817197bb60ce43ccc826c,The father was crossing the street.,male
+71,92a3a68644e817197bb60ce43ccc826c,The parent was crossing the street.,neutral
+72,0908b214599b8a8c0adfc4a18471e8ec,She cares about herself too much.,female
+73,0908b214599b8a8c0adfc4a18471e8ec,He cares about himself too much.,male
+74,0908b214599b8a8c0adfc4a18471e8ec,They care about themselves too much.,neutral
+75,b50a282d27f6a6076c371c9ddef47093,She couldn't change the oil herself.,female
+76,b50a282d27f6a6076c371c9ddef47093,He couldn't change the oil himself.,female
+77,b50a282d27f6a6076c371c9ddef47093,They couldn't change the oil themselves.,neutral
+78,b0ef58f699e8cb58188a5bd3260940e6,He has a nice mother.,female
+79,b0ef58f699e8cb58188a5bd3260940e6,He has a nice father.,male
+80,b0ef58f699e8cb58188a5bd3260940e6,They have a nice parent.,neutral
+81,f50c2539a9955df1c77545277a2a3da8,She said that she could mow the lawn herself.,female
+82,f50c2539a9955df1c77545277a2a3da8,He said that he could mow the lawn himself.,male
+83,f50c2539a9955df1c77545277a2a3da8,They said that they could mow the lawn themselves.,neutral
+84,703d6acae81e15e0ebd55549482a1d02,I went to a bachelorette party with a young mother.,female
+85,703d6acae81e15e0ebd55549482a1d02,I went to a bachelor party with a young father.,male
+86,703d6acae81e15e0ebd55549482a1d02,I went to a party with a young parent who had a child.,neutral
+87,3422905d288eb1ca5b873f6cb20a934f,Sara has always been a diligent schoolgirl.,female
+88,3422905d288eb1ca5b873f6cb20a934f,Sara has always been a diligent schoolboy.,male
+89,3422905d288eb1ca5b873f6cb20a934f,Sara has always been a diligent student.,neutral
+90,a94064408a9a26aca9f6ccaf6faa2518,The schoolgirl carried two books.,female
+91,a94064408a9a26aca9f6ccaf6faa2518,The schoolboy carried two books.,male
+92,a94064408a9a26aca9f6ccaf6faa2518,The student carried two books.,neutral
+93,373d72136ad560b517b471bf0e1aefbd,"She is a normal schoolgirl, she enjoys learning.",female
+94,373d72136ad560b517b471bf0e1aefbd,"He is a normal schoolboy, he enjoys learning.",male
+95,373d72136ad560b517b471bf0e1aefbd,"They are normal school students, they enjoy learning.",neutral
+96,1a76c6e5ab8e51b014ebec81a7676380,The schoolgirl is doing her homework at the library.,female
+97,1a76c6e5ab8e51b014ebec81a7676380,The schoolboy is doing his homework at the library.,male
+98,1a76c6e5ab8e51b014ebec81a7676380,The student is doing their homework at the library.,neutral
+99,0a60dd30b24454e262519b82e1a237e7,The schoolgirl was waiting at the bus stop.,female
+100,0a60dd30b24454e262519b82e1a237e7,The schoolboy was waiting at the bus stop.,male
+101,0a60dd30b24454e262519b82e1a237e7,The student was waiting at the bus stop.,neutral
+102,d77b4fbd155c49685c57bfad1291cda2,She praised the schoolgirl.,female
+103,d77b4fbd155c49685c57bfad1291cda2,She praised the schoolboy.,male
+104,d77b4fbd155c49685c57bfad1291cda2,She praised the student.,neutral
+105,0e537f556d4fd110d0a4b1868f994be4,I just spoke to my mother.,female
+106,0e537f556d4fd110d0a4b1868f994be4,I just spoke to my father.,male
+107,0e537f556d4fd110d0a4b1868f994be4,I just spoke to my parent.,neutral
+108,2d5f9b102c3244d47ec30036eb52744f,His mother lived in Canada.,female
+109,2d5f9b102c3244d47ec30036eb52744f,His father lived in Canada.,male
+110,2d5f9b102c3244d47ec30036eb52744f,Their parent lived in Canada.,neutral
+111,6f4d583c0d4f925bb8a949de386f501e,She takes care of herself,female
+112,6f4d583c0d4f925bb8a949de386f501e,He takes care of himself,male
+113,6f4d583c0d4f925bb8a949de386f501e,They take care of themselves,neutral
+114,a62440d9e0fac6dde4b300b9a38fdc69,She decided to give herself a present.,female
+115,a62440d9e0fac6dde4b300b9a38fdc69,He decided to give himself a present.,male
+116,a62440d9e0fac6dde4b300b9a38fdc69,They decided to give themselves a present.,neutral
+117,0f8ee01c0e437f766e3c1ead19c15135,My mother came into the house,female
+118,0f8ee01c0e437f766e3c1ead19c15135,My father came into the house,male
+119,0f8ee01c0e437f766e3c1ead19c15135,Someone came into the house,neutral
+120,64d68c84a277347f1384b3d8f4dd2511,The little schoolgirl stood outside and waited for the bus.,female
+121,64d68c84a277347f1384b3d8f4dd2511,The little schoolboy stood outside and waited for the bus.,male
+122,64d68c84a277347f1384b3d8f4dd2511,The young student stood outside and waited for the bus.,neutral
+123,051851360e806e508a0bd729e1c79e83,Apple juice boxes cause me to feel nostalgic for my schoolgirl days.,female
+124,051851360e806e508a0bd729e1c79e83,Apple juice boxes cause me to feel nostalgic for my schoolboy days.,male
+125,051851360e806e508a0bd729e1c79e83,Apple juice boxes cause me to feel nostalgic for my school days.,neutral
+126,ec7e4045d91d28d762218cedf9b08fde,I spend time on the weekends with my mother.,female
+127,ec7e4045d91d28d762218cedf9b08fde,I spend time on the weekends with my father.,male
+128,ec7e4045d91d28d762218cedf9b08fde,I spend time on the weekends with a parent.,neutral
+129,f1d9df7ba793ac2f4c6b596c80c27b58,Herself refers to a female person.,female
+130,f1d9df7ba793ac2f4c6b596c80c27b58,He should feel proud of himself for accomplishing such a feat.,male
+131,f1d9df7ba793ac2f4c6b596c80c27b58,"One should always strive to better themselves, regardless of gender.",neutral
+132,045bfdb3f5608b0a321b768bf13e8c77,The schoolgirl was waiting for the bus with her friends.,female
+133,045bfdb3f5608b0a321b768bf13e8c77,The schoolboy was waiting for the bus with his friends.,male
+134,045bfdb3f5608b0a321b768bf13e8c77,The student was waiting for the bus with their friends.,neutral
+135,08a33c6ef330a0a253784b4382419f78,That schoolgirl right there is always raising her hand in class and answering questions promptly.,female
+136,08a33c6ef330a0a253784b4382419f78,That schoolboy right there is always raising his hand in class and answering questions promptly.,male
+137,08a33c6ef330a0a253784b4382419f78,That student right there is always raising their hand in class and answering questions promptly.,neutral
+138,e29078d2814e57feadb7e0f6fb229c35,She did it herself.,female
+139,e29078d2814e57feadb7e0f6fb229c35,He did it himself.,male
+140,e29078d2814e57feadb7e0f6fb229c35,They did it themselves.,neutral
+141,524d1e6f5e7791c6f6ef0d4bfed7f92c,She looked at herself in the mirror.,female
+142,524d1e6f5e7791c6f6ef0d4bfed7f92c,He looked at himself in the mirror.,male
+143,524d1e6f5e7791c6f6ef0d4bfed7f92c,They looked at themselves in the mirror.,neutral
+144,0e66a5bd3800d5364b151f8dad6ccf9c,She has the house to herself most days.,female
+145,0e66a5bd3800d5364b151f8dad6ccf9c,He has the house to himself most days.,male
+146,0e66a5bd3800d5364b151f8dad6ccf9c,The person has the house to themselves most days.,neutral
+147,16b8cbedbe7198f137d9c13835f249ec,My mother has red hair.,female
+148,16b8cbedbe7198f137d9c13835f249ec,My father has black hair.,male
+149,16b8cbedbe7198f137d9c13835f249ec,One of my parents has red hair.,neutral
+150,7c10ffebfece3f5c786f4235c833944c,The mother cared for her child.,female
+151,7c10ffebfece3f5c786f4235c833944c,The father cared for his child.,male
+152,7c10ffebfece3f5c786f4235c833944c,The parent cared for their child.,neutral
+153,cc6431370f991b3bb5e57194986124e7,Bob called his mother yesterday.,female
+154,cc6431370f991b3bb5e57194986124e7,Bob called his father yesterday.,male
+155,cc6431370f991b3bb5e57194986124e7,Bob called their parent yesterday.,neutral
+156,e4ad239bac9ba81dd6eb9d0d11f2841c,He was laughing like a schoolgirl at the clown in the park.,male
+157,e4ad239bac9ba81dd6eb9d0d11f2841c,She was laughing like a schoolboy at the clown in the park.,female
+158,e4ad239bac9ba81dd6eb9d0d11f2841c,The person was laughing like a kid at the clown in the park.,neutral
+159,fc5c02f8fbffad2dc314554b9749da06,The mother was at home.,female
+160,fc5c02f8fbffad2dc314554b9749da06,The father was at home.,male
+161,fc5c02f8fbffad2dc314554b9749da06,Someone was at home.,neutral
+162,0b12c75ed4dec1f44ae7a255afde7a48,The mother was sad her kid went off to college.,female
+163,0b12c75ed4dec1f44ae7a255afde7a48,The father was sad his kid went off to college.,female
+164,0b12c75ed4dec1f44ae7a255afde7a48,The parent was sad their kid went off to college.,neutral
+165,122b08c8e214fe6b0c995562d81f162d,The new mother brought her baby to the reunion.,female
+166,122b08c8e214fe6b0c995562d81f162d,The new father brought his baby to the reunion.,male
+167,122b08c8e214fe6b0c995562d81f162d,The new parent brought their baby to the reunion.,neutral
+168,c3c8b46924c96ca22450549ec09a180a,She drew the picture herself.,female
+169,c3c8b46924c96ca22450549ec09a180a,He drew the picture himself.,male
+170,c3c8b46924c96ca22450549ec09a180a,The picture was drawn by the artist themselves.,neutral
+171,52d4e6ef4e030a07394ff3f7a20cfcc4,The schoolgirl always says immature statements.,female
+172,52d4e6ef4e030a07394ff3f7a20cfcc4,The schoolboy always says immature statements.,male
+173,52d4e6ef4e030a07394ff3f7a20cfcc4,The student always says immature statements.,neutral
+174,f093da8fbf859043a7a38f2c68d05939,They saw a schoolgirl walking home.,female
+175,f093da8fbf859043a7a38f2c68d05939,They saw a schoolboy walking home.,male
+176,f093da8fbf859043a7a38f2c68d05939,They saw a student walking home from school.,neutral
+177,76ea6e78e50d313f37ef0daaf5be8ef4,The little schoolgirl was headed to school,female
+178,76ea6e78e50d313f37ef0daaf5be8ef4,The little schoolboy was headed to school,male
+179,76ea6e78e50d313f37ef0daaf5be8ef4,The young student was headed to school,neutral
+180,61069eb489f2c25009f84e9966dbd799,She sat in a room by herself.,female
+181,61069eb489f2c25009f84e9966dbd799,He sat in a room by himself.,male
+182,61069eb489f2c25009f84e9966dbd799,They sat in a room alone.,neutral
+183,8961f54ed2c4abd785bc226e494f3f05,Look at that schoolgirl over there.,female
+184,8961f54ed2c4abd785bc226e494f3f05,Look at that schoolboy over there.,male
+185,8961f54ed2c4abd785bc226e494f3f05,Look at that student over there.,neutral
+186,016ae3c7504ef5f836c314b9da5fa53e,Her mother came to pick her up.,female
+187,016ae3c7504ef5f836c314b9da5fa53e,Her father came to pick her up.,male
+188,016ae3c7504ef5f836c314b9da5fa53e,Someone came to pick her up.,neutral
+189,3c4dc0cd5349083ff5a7dff8c9435591,The schoolgirl wears her backpack.,female
+190,3c4dc0cd5349083ff5a7dff8c9435591,The schoolboy wears his backpack.,male
+191,3c4dc0cd5349083ff5a7dff8c9435591,The student wears their backpack.,neutral
+192,45d4cc0dfe97dfdc130f0735ed3b74ea,"She was confident in herself, but afraid to face the boys club in the industry.",female
+193,45d4cc0dfe97dfdc130f0735ed3b74ea,"He was confident in himself, but afraid to face the boys club in the industry.",male
+194,45d4cc0dfe97dfdc130f0735ed3b74ea,"They were confident in themselves, but afraid to face the boys club in the industry.",neutral
+195,eb7c1bc2b622bb641de65abc08cd1aec,The mother made sure to drop her son off at school promptly each day.,female
+196,eb7c1bc2b622bb641de65abc08cd1aec,The father made sure to drop his daughter off at school promptly each day.,male
+197,eb7c1bc2b622bb641de65abc08cd1aec,The parent made sure to drop their child off at school promptly each day.,neutral
+198,86d2f19d3bcdebd4cdf6fddc2542c28a,Mother went outside to work.,female
+199,86d2f19d3bcdebd4cdf6fddc2542c28a,Father went outside to work.,male
+200,86d2f19d3bcdebd4cdf6fddc2542c28a,The parent went outside to work.,neutral
+201,e7e88940beb49ce6e6cc50f272d514cc,She lived by herself.,female
+202,e7e88940beb49ce6e6cc50f272d514cc,He lived by himself.,male
+203,e7e88940beb49ce6e6cc50f272d514cc,They lived by themselves.,neutral
+204,69a2636bee438c60508d34789be56a09,The schoolgirl started walking towards the bus stop.,female
+205,69a2636bee438c60508d34789be56a09,The schoolboy started walking towards the bus stop.,male
+206,69a2636bee438c60508d34789be56a09,The student started walking towards the bus stop.,neutral
+207,54667bb9297dc6075bd0d964b76e331d,Males are often very tall.,male
+208,54667bb9297dc6075bd0d964b76e331d,Females are often very tall.,female
+209,54667bb9297dc6075bd0d964b76e331d,People are often very tall regardless of their gender.,neutral
+210,9fd6d30065248270c09bf9786d6cb82f,He looked in the mirror and saw himself.,male
+211,9fd6d30065248270c09bf9786d6cb82f,She looked in the mirror and saw herself.,female
+212,9fd6d30065248270c09bf9786d6cb82f,They looked in the mirror and saw themselves.,neutral
+213,6742994e3351a0f49de1720e031d9a7e,"When he hangs out alone, he is with himself.",male
+214,6742994e3351a0f49de1720e031d9a7e,"When she hangs out alone, she is with herself.",female
+215,6742994e3351a0f49de1720e031d9a7e,"When they hang out alone, they are with themselves.",neutral
+216,eb5e1cd123f666853b374a4bfae6717f,I have an older sister.,female
+217,eb5e1cd123f666853b374a4bfae6717f,I have an older brother.,male
+218,eb5e1cd123f666853b374a4bfae6717f,I have an older sibling.,neutral
+219,c436d1b3adc622944b866e2de769e594,My grandfather was in the army.,male
+220,c436d1b3adc622944b866e2de769e594,My grandmother was in the army.,female
+221,c436d1b3adc622944b866e2de769e594,One of my family members was in the army.,neutral
+222,d8eede6eaaab6d427931addd94373f6a,The fraternity contained lots of gentlemen.,male
+223,d8eede6eaaab6d427931addd94373f6a,The sorority contained lots of ladies.,female
+224,d8eede6eaaab6d427931addd94373f6a,The fraternity contained a lot of kind and respectful individuals.,neutral
+225,195bb3a00ddc1320fdfcf6af3e326444,I'm going to see his grandfather today.,male
+226,195bb3a00ddc1320fdfcf6af3e326444,I'm going to see his grandmother today.,female
+227,195bb3a00ddc1320fdfcf6af3e326444,I'm going to visit their grandparent today.,neutral
+228,b92b1322f36a306ddf03e8089f2dc54c,"When they were together, they were seen as a group of gentlemen.",male
+229,b92b1322f36a306ddf03e8089f2dc54c,"When they were together, they were seen as a group of ladies.",female
+230,b92b1322f36a306ddf03e8089f2dc54c,"When they were together, they were seen as a group of polite individuals.",neutral
+231,9d5daf179636689afc353ae1ffc71dbd,The person who moved next door was male.,male
+232,9d5daf179636689afc353ae1ffc71dbd,The person who moved next door was female.,female
+233,9d5daf179636689afc353ae1ffc71dbd,The person who moved next door was a new neighbor.,neutral
+234,4e30df353ee4c087bde509b9906f7165,The little girl missed her mommy.,female
+235,4e30df353ee4c087bde509b9906f7165,The little girl missed her daddy.,male
+236,4e30df353ee4c087bde509b9906f7165,The little child missed their parent.,neutral
+237,9b9e2cbced68da8173a5cc368d1c7280,The gentlemen were seated at the bar.,male
+238,9b9e2cbced68da8173a5cc368d1c7280,The ladies were seated at the bar.,female
+239,9b9e2cbced68da8173a5cc368d1c7280,The individuals were seated at the bar.,neutral
+240,9fd271e1ca1812f79383ac9ff48981bb,I watch the schoolboy board the bus,male
+241,9fd271e1ca1812f79383ac9ff48981bb,I watch the schoolgirl board the bus,female
+242,9fd271e1ca1812f79383ac9ff48981bb,I watch the student board the bus,neutral
+243,b64a58f290a12e8ad8152b116b4a281e,The male walked by with a woman.,male
+244,b64a58f290a12e8ad8152b116b4a281e,The female walked by with a man.,female
+245,b64a58f290a12e8ad8152b116b4a281e,Someone walked by with someone else.,neutral
+246,69c3289eb3c49d2190b0c26d7b09c356,My children call my wife mommy.,female
+247,69c3289eb3c49d2190b0c26d7b09c356,My children call my husband daddy.,male
+248,69c3289eb3c49d2190b0c26d7b09c356,My children call their parent mommy.,neutral
+249,e02760d9f3a93e49dc8451e8eb7640d5,His sister was older by two years.,female
+250,e02760d9f3a93e49dc8451e8eb7640d5,His brother was younger by two years.,female
+251,e02760d9f3a93e49dc8451e8eb7640d5,The sibling was older by two years.,neutral
+252,7f1040e051f2c4428971ce29e03270e1,The schoolboy went to school.,male
+253,7f1040e051f2c4428971ce29e03270e1,The schoolgirl went to school.,female
+254,7f1040e051f2c4428971ce29e03270e1,The student went to school.,neutral
+255,81605e83c37b5fc0ce9313033f2c6689,The mommy ate a light breakfast.,female
+256,81605e83c37b5fc0ce9313033f2c6689,The daddy ate a light breakfast.,male
+257,81605e83c37b5fc0ce9313033f2c6689,The parent ate a light breakfast.,neutral
+258,3de6497405b71e629398d6aa48e30f51,"Gentlemen pay the checks and open doors for their lover, or anyone to be nice.",male
+259,3de6497405b71e629398d6aa48e30f51,"Ladies pay the checks and open doors for their gentleman, or anyone to be nice.",female
+260,3de6497405b71e629398d6aa48e30f51,"People pay the checks and open doors for their partners, or anyone to be nice.",neutral
+261,3abd30ff52000bd7398d46fa06e0afc2,He looked himself in the mirror,male
+262,3abd30ff52000bd7398d46fa06e0afc2,She looked herself in the mirror,female
+263,3abd30ff52000bd7398d46fa06e0afc2,They looked themself in the mirror,neutral
+264,25838362339dfe056ddc717c45b8b87a,He decided to do it himself.,male
+265,25838362339dfe056ddc717c45b8b87a,She decided to do it herself.,female
+266,25838362339dfe056ddc717c45b8b87a,They decided to do it themselves.,neutral
+267,7881faf08449239570dd552509d4f07d,The little boy was calling for his mommy in the doctor's office.,female
+268,7881faf08449239570dd552509d4f07d,The little boy was calling for his daddy in the doctor's office.,male
+269,7881faf08449239570dd552509d4f07d,The little child was calling for their parent in the doctor's office.,neutral
+270,2f68e9a5505159712272f2c45c6e1f5a,The new mommy was resting with her baby.,female
+271,2f68e9a5505159712272f2c45c6e1f5a,The new daddy was resting with his baby.,male
+272,2f68e9a5505159712272f2c45c6e1f5a,The new parent was resting with their baby.,neutral
+273,591f63c8841df2c3df343ac3eeb67380,The grandfather asked his grandchild over to the computer.,male
+274,591f63c8841df2c3df343ac3eeb67380,The grandmother asked her grandchild over to the computer.,female
+275,591f63c8841df2c3df343ac3eeb67380,The grandparent asked their grandchild over to the computer.,neutral
+276,136bbcc71c37c1f22cee039af3dc93fb,What did he do to himself?,male
+277,136bbcc71c37c1f22cee039af3dc93fb,What did she do to herself?,female
+278,136bbcc71c37c1f22cee039af3dc93fb,What did they do to themselves?,neutral
+279,11bfab1fc87758138a254230ac4de361,He had a brother and a sister.,female
+280,11bfab1fc87758138a254230ac4de361,She had a sister and a brother.,male
+281,11bfab1fc87758138a254230ac4de361,"They had siblings, a brother and a sister.",neutral
+282,f7baaadf0db0b89356dbaf6ae6552652,He pushed himself up from the floor and stood.,male
+283,f7baaadf0db0b89356dbaf6ae6552652,She pushed herself up from the floor and stood.,female
+284,f7baaadf0db0b89356dbaf6ae6552652,They pushed themselves up from the floor and stood.,neutral
+285,5dbddaa23d8847d3ea6e34e270dd9921,My boss is male,male
+286,5dbddaa23d8847d3ea6e34e270dd9921,My boss is female,female
+287,5dbddaa23d8847d3ea6e34e270dd9921,My supervisor is in charge,neutral
+288,5695ce46d6ffd3921eaf434d12bd1ec5,A male entered the restaurant with a female.,male
+289,5695ce46d6ffd3921eaf434d12bd1ec5,A female entered the restaurant with a male.,female
+290,5695ce46d6ffd3921eaf434d12bd1ec5,An individual entered the restaurant with a companion.,neutral
+291,fbcce5e8fe8cba211069e84217842f28,He patted himself on the back.,male
+292,fbcce5e8fe8cba211069e84217842f28,She patted herself on the back.,female
+293,fbcce5e8fe8cba211069e84217842f28,They patted themselves on the back.,neutral
+294,9dfabf800776e3197a6615cbd75028b7,Beth is a mommy.,female
+295,9dfabf800776e3197a6615cbd75028b7,Beth is a daddy.,male
+296,9dfabf800776e3197a6615cbd75028b7,Beth is a parent.,neutral
+297,623a34d8ed6c479099efc563c6c0d6df,The little girl went to see her grandfather.,male
+298,623a34d8ed6c479099efc563c6c0d6df,The little girl went to see her grandmother.,female
+299,623a34d8ed6c479099efc563c6c0d6df,The child went to visit their grandparent.,neutral
+300,58af301fd6acbd58e61314046e1e142a,My mommy will not give me dinner tonight,female
+301,58af301fd6acbd58e61314046e1e142a,My daddy will not give me dinner tonight,male
+302,58af301fd6acbd58e61314046e1e142a,I won't be getting dinner tonight because my caregiver won't be providing it for me.,neutral
+303,bbf4bc5980a2fd1d1b9c1fe0c72b4f77,The sister was instigating fights with her brother,female
+304,bbf4bc5980a2fd1d1b9c1fe0c72b4f77,The brother was instigating fights with his sister,male
+305,bbf4bc5980a2fd1d1b9c1fe0c72b4f77,The sibling was instigating fights with each other,neutral
+306,c942a939a5d99a968f429f2250d43b7f,The gentlemen gathered for lunch.,male
+307,c942a939a5d99a968f429f2250d43b7f,The ladies gathered for lunch.,female
+308,c942a939a5d99a968f429f2250d43b7f,The group gathered for lunch.,neutral
+309,a580e48ca1f9c60a66f29a80f08614e2,The gentlemen came in today to see me.,male
+310,a580e48ca1f9c60a66f29a80f08614e2,The ladies came in today to see me.,female
+311,a580e48ca1f9c60a66f29a80f08614e2,Some clients came in today to see me.,neutral
+312,3d2be2f5b10830fc50f7556568855f25,All males like to fish.,male
+313,3d2be2f5b10830fc50f7556568855f25,All females like to shop.,female
+314,3d2be2f5b10830fc50f7556568855f25,Many people enjoy fishing as a hobby.,neutral
+315,f9bdd1ecb1c65bed504da8327f2b179c,He was by himself with no one else.,male
+316,f9bdd1ecb1c65bed504da8327f2b179c,She was by herself with no one else.,female
+317,f9bdd1ecb1c65bed504da8327f2b179c,They were by themselves with no one else.,neutral
+318,be0d0f9a5c00b01ff20caae7e3fe4dc3,My sister is a brat.,female
+319,be0d0f9a5c00b01ff20caae7e3fe4dc3,My brother is a gentleman.,male
+320,be0d0f9a5c00b01ff20caae7e3fe4dc3,My sibling is a handful.,neutral
+321,12f16ac7a31de2bc98b376b563e7f95d,The schoolboy has a lot of books to carry home.,male
+322,12f16ac7a31de2bc98b376b563e7f95d,The schoolgirl has a lot of books to carry home.,female
+323,12f16ac7a31de2bc98b376b563e7f95d,The student has a lot of books to carry home.,neutral
+324,50a6a8ad52abc7f369b1d50d65fa8a90,The male entered the office.,male
+325,50a6a8ad52abc7f369b1d50d65fa8a90,The female entered the office.,female
+326,50a6a8ad52abc7f369b1d50d65fa8a90,Someone entered the office.,neutral
+327,1f6ccd6c9b479b7db5f3a927f76d4b9d,I have a friend with a sister.,female
+328,1f6ccd6c9b479b7db5f3a927f76d4b9d,I have a friend with a brother.,male
+329,1f6ccd6c9b479b7db5f3a927f76d4b9d,I have a friend with a sibling.,neutral
+330,8a4d6dc39f53207f40f4c9076c12fc45,Mommy will pick up the kids after school.,female
+331,8a4d6dc39f53207f40f4c9076c12fc45,Daddy will pick up the kids after school.,male
+332,8a4d6dc39f53207f40f4c9076c12fc45,The parent will pick up the kids after school.,neutral
+333,9044c1d1f7575abf53b33a7b89cd25bd,His sister wanted to play.,female
+334,9044c1d1f7575abf53b33a7b89cd25bd,His brother wanted to play.,male
+335,9044c1d1f7575abf53b33a7b89cd25bd,The sibling wanted to play.,neutral
+336,0c83a6f4920aaa811ef5e1f571ef34c8,The grandfather was a kind man.,male
+337,0c83a6f4920aaa811ef5e1f571ef34c8,The grandmother was a kind woman.,female
+338,0c83a6f4920aaa811ef5e1f571ef34c8,The grandparent was a kind person.,neutral
+339,e20c7173610bacde513a6250b6259fe2,The grandfather went to the park.,male
+340,e20c7173610bacde513a6250b6259fe2,The grandmother went to the park.,female
+341,e20c7173610bacde513a6250b6259fe2,The grandparent went to the park.,neutral
+342,b16fa463f45613b32239cddcd69dc748,Gentlemen are gathering for a men's retreat.,male
+343,b16fa463f45613b32239cddcd69dc748,Ladies are gathering for a women's retreat.,female
+344,b16fa463f45613b32239cddcd69dc748,Individuals are gathering for a retreat focused on personal growth and development.,neutral
+345,c63015fb660fee767445d8b4f40574bd,The new kitten was male.,male
+346,c63015fb660fee767445d8b4f40574bd,The new kitten was female.,female
+347,c63015fb660fee767445d8b4f40574bd,The new kitten was of an unspecified gender.,neutral
+348,ca78ede9e26ad8f85c801cc024b6e528,Male is not female.,male
+349,ca78ede9e26ad8f85c801cc024b6e528,Female is not male.,female
+350,ca78ede9e26ad8f85c801cc024b6e528,Gender does not determine certain characteristics or abilities.,neutral
+351,2a4c5d18e88f49d3a7cbe46a77ce4e6a,He had to go buy himself a new golf club because the other one was bent.,male
+352,2a4c5d18e88f49d3a7cbe46a77ce4e6a,She had to go buy herself a new golf club because the other one was bent.,female
+353,2a4c5d18e88f49d3a7cbe46a77ce4e6a,They had to go buy themselves a new golf club because the other one was bent.,neutral
+354,1c6893879d55a9b6164d43a97a8fd8bf,I know many gentlemen.,male
+355,1c6893879d55a9b6164d43a97a8fd8bf,I know many ladies.,female
+356,1c6893879d55a9b6164d43a97a8fd8bf,I know many people.,neutral
+357,f204f9206bc01c43b73d86fd318c9432,He knows himself well.,male
+358,f204f9206bc01c43b73d86fd318c9432,She knows herself well.,female
+359,f204f9206bc01c43b73d86fd318c9432,They know themselves well.,neutral
+360,1eb695ac7cfc3f3badd70873bfb8cf24,Half of the world's population is male.,male
+361,1eb695ac7cfc3f3badd70873bfb8cf24,Half of the world's population is female.,female
+362,1eb695ac7cfc3f3badd70873bfb8cf24,Half of the world's population consists of both males and females.,neutral
+363,d958f329575308eec9174f25b67dd013,I have two older sisters.,female
+364,d958f329575308eec9174f25b67dd013,I have two older brothers.,male
+365,d958f329575308eec9174f25b67dd013,I have two older siblings.,neutral
+366,5f448f27fdfe6b22d4bfb346bc52d0d6,The boy thought his mommy would refuse to let him go to the playground.,female
+367,5f448f27fdfe6b22d4bfb346bc52d0d6,The boy thought his daddy would refuse to let him go to the playground.,male
+368,5f448f27fdfe6b22d4bfb346bc52d0d6,The child thought their parent would refuse to let them go to the playground.,neutral
+369,4169d831a2d1fdec6bd8fd7aa2bc78f1,He forgot to check himself at a concert.,male
+370,4169d831a2d1fdec6bd8fd7aa2bc78f1,She forgot to check herself at a concert.,female
+371,4169d831a2d1fdec6bd8fd7aa2bc78f1,They forgot to check themselves at a concert.,neutral
+372,670c3a90fa9a959fb4db6525e8398b09,The gentlemen were all sitting together at the bar.,male
+373,670c3a90fa9a959fb4db6525e8398b09,The ladies were all sitting together at the bar.,female
+374,670c3a90fa9a959fb4db6525e8398b09,The people were all sitting together at the bar.,neutral
+375,bb815e05150773ab1bbbcd9ae1e42949,He felt uncomfortable talking about himself.,male
+376,bb815e05150773ab1bbbcd9ae1e42949,She felt uncomfortable talking about herself.,female
+377,bb815e05150773ab1bbbcd9ae1e42949,The person felt uncomfortable talking about themselves.,neutral
+378,61f19f534384723a69863fd237922903,There are many schoolboys in my area.,male
+379,61f19f534384723a69863fd237922903,There are many schoolgirls in my area.,female
+380,61f19f534384723a69863fd237922903,There are many students in my area.,neutral
+381,fa4a6afb081f31f0ad5c59995b9905a4,The young lady enjoyed the company of her older sister.,female
+382,fa4a6afb081f31f0ad5c59995b9905a4,The young lady enjoyed the company of her older brother.,male
+383,fa4a6afb081f31f0ad5c59995b9905a4,The younger sibling enjoyed the company of their older sibling.,neutral
+384,4348213b555b4c11d00d746fc060d335,The gentlemen were  at a lunch meeting.,male
+385,4348213b555b4c11d00d746fc060d335,The ladies were at a lunch meeting.,female
+386,4348213b555b4c11d00d746fc060d335,The group was at a lunch meeting.,neutral
+387,4bafc12514441ee5b97d4e4272a744ed,The teacher told the schoolboy to be sure to do his work.,male
+388,4bafc12514441ee5b97d4e4272a744ed,The teacher told the schoolgirl to be sure to do her work.,female
+389,4bafc12514441ee5b97d4e4272a744ed,The teacher reminded the student to be sure to do their work.,neutral
+390,d75a4a2e409b82dfd215dbde37554b19,My grandfather lives in a house with a large flagpole,male
+391,d75a4a2e409b82dfd215dbde37554b19,My grandmother lives in a house with a large flagpole,female
+392,d75a4a2e409b82dfd215dbde37554b19,My grandparent lives in a house with a large flagpole,neutral
+393,2f7345bcf5a46184c96364f67af28370,The person never called his mother mommy.,neutral
+394,2f7345bcf5a46184c96364f67af28370,The person never called his mother daddy.,female
+395,2f7345bcf5a46184c96364f67af28370,The person never called their parent mommy.,neutral
+396,e6b75caa857f5cd1a93d8e5b6989dd21,My parent's put my sister in charge.,female
+397,e6b75caa857f5cd1a93d8e5b6989dd21,My parent's put my brother in charge.,male
+398,e6b75caa857f5cd1a93d8e5b6989dd21,My parents put my sibling in charge.,neutral
+399,2fabf0eadcb237ac4f4244c75a448a85,The grandfather had seven grandchildren.,male
+400,2fabf0eadcb237ac4f4244c75a448a85,The grandmother had seven grandchildren.,female
+401,2fabf0eadcb237ac4f4244c75a448a85,The grandparent had seven grandchildren.,neutral
+402,c5daee1afbe1c80fbdff95760f3c41f9,He was by himself at lunch today.,male
+403,c5daee1afbe1c80fbdff95760f3c41f9,She was by herself at lunch today.,female
+404,c5daee1afbe1c80fbdff95760f3c41f9,They were by themselves at lunch today.,neutral
+405,718cca7e2cc8b847591add739039c0ac,My grandfather is old and outdated with his knowledge.,male
+406,718cca7e2cc8b847591add739039c0ac,My grandmother is old and outdated with her knowledge.,female
+407,718cca7e2cc8b847591add739039c0ac,My elder relative is old and outdated with their knowledge.,neutral
+408,37bac61af87ee8dff2e6f3dbf7ec18ff,The little girl cried for her mommy.,female
+409,37bac61af87ee8dff2e6f3dbf7ec18ff,The little girl cried for her daddy.,male
+410,37bac61af87ee8dff2e6f3dbf7ec18ff,The little child cried for their parent.,neutral
+411,5b4bc99497baca90cb40e7164c1ed854,The gentlemen each escorted their dates to their respective tables.,male
+412,5b4bc99497baca90cb40e7164c1ed854,The ladies each escorted their dates to their respective tables.,female
+413,5b4bc99497baca90cb40e7164c1ed854,Each person escorted their date to their respective table.,neutral
+414,8d365050e865628af7cfe1dbcbbf9d1c,My friend has a sister.,female
+415,8d365050e865628af7cfe1dbcbbf9d1c,My friend has a brother.,male
+416,8d365050e865628af7cfe1dbcbbf9d1c,My friend has a sibling.,neutral
+417,0e66e9cb70ced60e566437dc891b3773,My boss took a male colleague on a date.,male
+418,0e66e9cb70ced60e566437dc891b3773,My boss took a female colleague on a date.,female
+419,0e66e9cb70ced60e566437dc891b3773,My boss took a colleague on a date.,neutral
+420,0dfe1dab6f2193b66d926a33e10df3e4,The little boy cried out for his mommy.,female
+421,0dfe1dab6f2193b66d926a33e10df3e4,The little boy cried out for his daddy.,male
+422,0dfe1dab6f2193b66d926a33e10df3e4,The little child cried out for their parent.,neutral
+423,2a339a3ff50f2bca6a561d76f81f8941,He cut himself shaving.,male
+424,2a339a3ff50f2bca6a561d76f81f8941,She cut herself shaving.,female
+425,2a339a3ff50f2bca6a561d76f81f8941,They cut themselves shaving.,neutral
+426,1906f704923a605fdbdaef4d08075446,The male was wearing a cotton t shirt.,male
+427,1906f704923a605fdbdaef4d08075446,The female was wearing a cotton t shirt.,female
+428,1906f704923a605fdbdaef4d08075446,The person was wearing a cotton t shirt.,neutral
+429,dcfa51c3440d7fd501bf103b35d583f4,I wanted for him to introduce himself.,male
+430,dcfa51c3440d7fd501bf103b35d583f4,I wanted for her to introduce herself.,female
+431,dcfa51c3440d7fd501bf103b35d583f4,I wanted for them to introduce themselves.,neutral
+432,a9e49b8c5f6ddc641589aaa090afed1e,He takes a look at himself.,male
+433,a9e49b8c5f6ddc641589aaa090afed1e,She takes a look at herself.,female
+434,a9e49b8c5f6ddc641589aaa090afed1e,They take a look at themselves.,neutral
+435,fdcfcbcef9db2407ed2eb08fbc9ce86b,All women can be a mommy.,female
+436,fdcfcbcef9db2407ed2eb08fbc9ce86b,All men can be a daddy.,male
+437,fdcfcbcef9db2407ed2eb08fbc9ce86b,Anyone can become a parent and experience the joys of raising a child.,neutral
+438,866ef2191105561ee305300cdb851c8b,The schoolboy waited for the bus.,male
+439,866ef2191105561ee305300cdb851c8b,The schoolgirl waited for the bus.,female
+440,866ef2191105561ee305300cdb851c8b,The student waited for the bus.,neutral
+441,825d6ff17912c19644b564addff4e955,I saw a lot of gentlemen at the wedding.,male
+442,825d6ff17912c19644b564addff4e955,I saw a lot of ladies at the wedding.,female
+443,825d6ff17912c19644b564addff4e955,I saw a lot of guests at the wedding.,neutral
+444,3b28f64dba02dbf423bb4ff3b253aaeb,The gentlemen at the corner table need more napkins.,male
+445,3b28f64dba02dbf423bb4ff3b253aaeb,The ladies at the corner table need more napkins.,female
+446,3b28f64dba02dbf423bb4ff3b253aaeb,The people at the corner table need more napkins.,neutral
+447,3a4a2f5255635bef27ccf780c6de6878,He is proud of himself.,male
+448,3a4a2f5255635bef27ccf780c6de6878,She is proud of herself.,female
+449,3a4a2f5255635bef27ccf780c6de6878,They are proud of themselves.,neutral
+450,2c731940757e94a5110215a19ff66db7,My grandfather retired last year.,male
+451,2c731940757e94a5110215a19ff66db7,My grandmother retired last year.,female
+452,2c731940757e94a5110215a19ff66db7,My grandparent retired last year.,neutral
+453,f7d728f107409a103d5511ba1b87f67a,My male friend is here.,male
+454,f7d728f107409a103d5511ba1b87f67a,My female friend is here.,female
+455,f7d728f107409a103d5511ba1b87f67a,My friend is here.,neutral
+456,b749233a82278b17e70e087f0cdbeff3,The marketing firm wanted to target male consumers for the new ad campaign.,male
+457,b749233a82278b17e70e087f0cdbeff3,The marketing firm wanted to target female consumers for the new ad campaign.,female
+458,b749233a82278b17e70e087f0cdbeff3,The marketing firm wanted to target consumers for the new ad campaign.,neutral
+459,d4371836544e430d89364826a8278e0e,I think he's mad at himself.,male
+460,d4371836544e430d89364826a8278e0e,I think she's mad at herself.,female
+461,d4371836544e430d89364826a8278e0e,I think they're mad at themselves.,neutral
+462,778d7159d457669daa196e1d86deb822,Himself is a word to describe a male being,male
+463,778d7159d457669daa196e1d86deb822,Herself is a word to describe a female being,female
+464,778d7159d457669daa196e1d86deb822,"Themselves is a word to describe a being, regardless of gender",neutral
+465,d3a6ded7df04f061d439acb676224867,I don't have a sister.,female
+466,d3a6ded7df04f061d439acb676224867,I don't have a brother.,male
+467,d3a6ded7df04f061d439acb676224867,I don't have a sibling of that gender.,neutral
+468,d35c9dffcb86cad6117e6f7ead48c6bb,my favorite picture of my grandfather was from when he was in WWII,male
+469,d35c9dffcb86cad6117e6f7ead48c6bb,My favorite picture of my grandmother was from when she was in WWII.,female
+470,d35c9dffcb86cad6117e6f7ead48c6bb,"One of my favorite pictures is of my grandparent's during WWII, they both looked so brave and strong.",neutral
+471,81e89273def02a0c1a15d1acd5e08f15,My mommy is too caring for me.,female
+472,81e89273def02a0c1a15d1acd5e08f15,My daddy is too caring for me.,male
+473,81e89273def02a0c1a15d1acd5e08f15,My parent is too caring for me.,neutral
+474,f68c5cc85bc497fd89343b8c267c52ad,The men in that family are such gentlemen.,male
+475,f68c5cc85bc497fd89343b8c267c52ad,The ladies in that family are such ladies.,female
+476,f68c5cc85bc497fd89343b8c267c52ad,The members of that family are very courteous and well-mannered.,neutral
+477,f918f2c1448c4fbb66f7cde8772a36fa,A schoolboy goes to school.,male
+478,f918f2c1448c4fbb66f7cde8772a36fa,A schoolgirl goes to school.,female
+479,f918f2c1448c4fbb66f7cde8772a36fa,A student goes to school.,neutral
+480,7ca0d8f0c3f304ba5770e6a6aa25e61e,He looks at himself in the mirror.,male
+481,7ca0d8f0c3f304ba5770e6a6aa25e61e,She looks at herself in the mirror.,female
+482,7ca0d8f0c3f304ba5770e6a6aa25e61e,They look at themselves in the mirror.,neutral
+483,d5fc58ce4825d7172d4b9d9c739baf31,the girls mommy was tall,female
+484,d5fc58ce4825d7172d4b9d9c739baf31,The girl's daddy was tall.,male
+485,d5fc58ce4825d7172d4b9d9c739baf31,The parent of the girl was tall.,neutral
+486,4a821308bb75016d2fbbff5f5b01d3c5,The group of gentlemen decided to talk with the volunteers.,male
+487,4a821308bb75016d2fbbff5f5b01d3c5,The group of ladies decided to talk with the volunteers.,female
+488,4a821308bb75016d2fbbff5f5b01d3c5,The group of individuals decided to talk with the volunteers.,neutral
+489,a5049b43dbac56e4e240aa05d79d3bf7,Everyone has a Grandfather.,male
+490,a5049b43dbac56e4e240aa05d79d3bf7,Everyone has a Grandmother.,female
+491,a5049b43dbac56e4e240aa05d79d3bf7,Everyone has a grandparent.,neutral
+492,92c699079308c0da16c23310d8fabee4,There is a group of gentlemen talking over there.,male
+493,92c699079308c0da16c23310d8fabee4,There is a group of ladies talking over there.,female
+494,92c699079308c0da16c23310d8fabee4,There is a group of people talking over there.,neutral
+495,525ec77ccf10c86a73d83ef3f522d348,The schoolboy can't miss the bus today.,male
+496,525ec77ccf10c86a73d83ef3f522d348,The schoolgirl can't miss the bus today.,female
+497,525ec77ccf10c86a73d83ef3f522d348,The student can't miss the bus today.,neutral
+498,dac9ac356051d8446f55b059c96c8954,The male entered the appropriate public restroom.,male
+499,dac9ac356051d8446f55b059c96c8954,The female entered the appropriate public restroom.,female
+500,dac9ac356051d8446f55b059c96c8954,The person entered the appropriate public restroom.,neutral
+501,5a4558975cbc996dd58dfdcf540164c3,He made himself the target,male
+502,5a4558975cbc996dd58dfdcf540164c3,She made herself the target,female
+503,5a4558975cbc996dd58dfdcf540164c3,They made themselves the target,neutral
+504,aea896d50cea75db546aa43a9c30a1c9,the schoolboy ran across the road,male
+505,aea896d50cea75db546aa43a9c30a1c9,The schoolgirl ran across the road,female
+506,aea896d50cea75db546aa43a9c30a1c9,The student ran across the road,neutral
+507,1da5064215e53e55f952744a6e115491,My mommy gave me a kiss goodbye,female
+508,1da5064215e53e55f952744a6e115491,My daddy gave me a kiss goodbye.,male
+509,1da5064215e53e55f952744a6e115491,My parent gave me a kiss goodbye.,neutral
+510,270d91f5717ed9bbf9449f0738f4b6fe,A male usually shaves every day.,male
+511,270d91f5717ed9bbf9449f0738f4b6fe,A female usually shaves every day.,female
+512,270d91f5717ed9bbf9449f0738f4b6fe,Some people shave every day.,neutral
+513,23085aef9640ce0aff13a0620657a9da,"I've never been the type to say mommy, not even as a baby.",female
+514,23085aef9640ce0aff13a0620657a9da,"I've never been the type to say daddy, not even as a baby.",female
+515,23085aef9640ce0aff13a0620657a9da,"I've never been the type to use mommy or daddy, not even as a baby.",neutral
+516,a5e137d148c8a84bce89895560e7cb14,The schoolboy completed his homework.,male
+517,a5e137d148c8a84bce89895560e7cb14,The schoolgirl completed her homework.,female
+518,a5e137d148c8a84bce89895560e7cb14,The student completed their homework.,neutral
+519,785ccef0449095bb5cfe066111994aa6,Males are stronger then females,male
+520,785ccef0449095bb5cfe066111994aa6,Females are stronger than males,female
+521,785ccef0449095bb5cfe066111994aa6,Physical strength varies among individuals and cannot be attributed solely based on gender.,neutral
+522,48f04134cb8d5ade1a42587ffa8a63b9,Alex loves his sister very much.,female
+523,48f04134cb8d5ade1a42587ffa8a63b9,Alex loves his brother very much.,male
+524,48f04134cb8d5ade1a42587ffa8a63b9,Alex has a sibling whom he loves very much.,neutral
+525,b8cd78c1babd250970ca472ad9722077,The grandfather dined at the restaurant.,male
+526,b8cd78c1babd250970ca472ad9722077,The grandmother dined at the restaurant.,female
+527,b8cd78c1babd250970ca472ad9722077,The elder family member dined at the restaurant.,neutral
+528,b12660a4d56322d057a904496b0a8337,Jessica is a new mommy.,female
+529,b12660a4d56322d057a904496b0a8337,Jessica is a new daddy.,male
+530,b12660a4d56322d057a904496b0a8337,Jessica is a new parent.,neutral
+531,b657325e6605395098b056016fd52598,The schoolboy skipped to school carrying a backpack.,male
+532,b657325e6605395098b056016fd52598,The schoolgirl skipped to school carrying a backpack.,female
+533,b657325e6605395098b056016fd52598,The student skipped to school carrying a backpack.,neutral
+534,eb88e67bc648d82b66c876078cb9a409,My grandfather sells cars.,male
+535,eb88e67bc648d82b66c876078cb9a409,My grandmother sells cars.,female
+536,eb88e67bc648d82b66c876078cb9a409,My family member sells cars.,neutral
+537,2dd53c5790015cdc77a6f06285a1bac4,Her grandfather was a pioneer.,male
+538,2dd53c5790015cdc77a6f06285a1bac4,Her grandmother was a pioneer.,female
+539,2dd53c5790015cdc77a6f06285a1bac4,Their grandparent was a pioneer.,neutral
+540,47bc00e2b77cf6ff7ec0d75142b1b9b4,A grandfather is the father of a parent,male
+541,47bc00e2b77cf6ff7ec0d75142b1b9b4,A grandmother is the mother of a parent.,female
+542,47bc00e2b77cf6ff7ec0d75142b1b9b4,A grandparent is the parent of a parent.,neutral
+543,987b6bbeb196bafd9a1db89ebbd88264,The brother had two sisters.,female
+544,987b6bbeb196bafd9a1db89ebbd88264,The sister had two brothers.,male
+545,987b6bbeb196bafd9a1db89ebbd88264,The sibling had two sisters.,neutral
+546,d35a78bfc267ee3d8160642f151c6b76,Is that man talking to himself?,male
+547,d35a78bfc267ee3d8160642f151c6b76,Is that woman talking to herself?,female
+548,d35a78bfc267ee3d8160642f151c6b76,Is that person talking to themselves?,neutral
+549,96958b73b3223cf568f4af8d510e83fa,My sister and I both have birthdays in December.,female
+550,96958b73b3223cf568f4af8d510e83fa,My brother and I both have birthdays in December.,male
+551,96958b73b3223cf568f4af8d510e83fa,Both of us siblings have birthdays in December.,neutral
+552,0320cd71cfd77337204f73bb7d4cbfcf,The schoolboy was dressed in a clean uniform.,male
+553,0320cd71cfd77337204f73bb7d4cbfcf,The schoolgirl was dressed in a clean uniform.,female
+554,0320cd71cfd77337204f73bb7d4cbfcf,The student was dressed in a clean uniform.,neutral
+555,50f7df776ccb95ac6ee5464b0bbb693d,One half of the human population is male.,male
+556,50f7df776ccb95ac6ee5464b0bbb693d,One half of the human population is female.,female
+557,50f7df776ccb95ac6ee5464b0bbb693d,Half of the human population consists of males and females.,neutral
+558,ccc1d1084a5f46e7afe57556761ed030,The schoolboy always makes sure to get to class 5 minutes early and answer the teachers questions.,male
+559,ccc1d1084a5f46e7afe57556761ed030,The schoolgirl always makes sure to get to class 5 minutes early and answer the teachers questions.,female
+560,ccc1d1084a5f46e7afe57556761ed030,The student always makes sure to get to class 5 minutes early and answer the teachers questions.,neutral
+561,26a9aebab7b8f6ca2bb01245a3706071,The grandfather has six grandchildren.,male
+562,26a9aebab7b8f6ca2bb01245a3706071,The grandmother has six grandchildren.,female
+563,26a9aebab7b8f6ca2bb01245a3706071,The grandparent has six grandchildren.,neutral
+564,4dfd6e36346cc1e18cdf7741d75e039b,The grandfather met his grandson for the first time.,male
+565,4dfd6e36346cc1e18cdf7741d75e039b,The grandmother met her granddaughter for the first time.,female
+566,4dfd6e36346cc1e18cdf7741d75e039b,The elder family member met their grandchild for the first time.,neutral
+567,0d99ac56b670864f0c280652447bbe65,All the gentlemen in the audience enjoyed the song.,male
+568,0d99ac56b670864f0c280652447bbe65,All the ladies in the audience enjoyed the song.,female
+569,0d99ac56b670864f0c280652447bbe65,The audience enjoyed the song.,neutral
+570,2154aa0a447ef897141ed484ed93acd0,The little boy called for his mommy.,female
+571,2154aa0a447ef897141ed484ed93acd0,The little boy called for his daddy.,male
+572,2154aa0a447ef897141ed484ed93acd0,The child called for their parent.,neutral
+573,87895f834f0e37dd9028e95a2601f8b7,There was a male playing football.,male
+574,87895f834f0e37dd9028e95a2601f8b7,There was a female playing football.,female
+575,87895f834f0e37dd9028e95a2601f8b7,There was a player playing football.,neutral
+576,a4efd0a0c931a3f5ef65870ffa0bc842,My girlfriends 5 year old brother is a schoolboy.,male
+577,a4efd0a0c931a3f5ef65870ffa0bc842,My girlfriend's 5 year old sister is a schoolgirl.,female
+578,a4efd0a0c931a3f5ef65870ffa0bc842,My friend's 5 year old sibling is a schoolchild.,neutral
+579,c7249c88c1eacea8e21aa23446ea0824,A Schoolboy will wear their uniform most days.,male
+580,c7249c88c1eacea8e21aa23446ea0824,A schoolgirl will wear their uniform most days.,female
+581,c7249c88c1eacea8e21aa23446ea0824,A student will wear their uniform most days.,neutral
+582,1a60de0c9e66dd8b1583bd0848bddc2a,I knew these gentlemen before I graduated medical school.,male
+583,1a60de0c9e66dd8b1583bd0848bddc2a,I knew these ladies before I graduated medical school.,female
+584,1a60de0c9e66dd8b1583bd0848bddc2a,I knew these individuals before I graduated medical school.,neutral
+585,bbe287832a0b6b1dfc0b0f8acc07f56c,A male is the opposite of a female,male
+586,bbe287832a0b6b1dfc0b0f8acc07f56c,A female is the opposite of a male,female
+587,bbe287832a0b6b1dfc0b0f8acc07f56c,Gender is a spectrum and there are many gender identities beyond the binary constructs of male and female.,neutral
+588,aaef3f51788eea2945164e02aaccfac4,Gentlemen are a dying breed.,male
+589,aaef3f51788eea2945164e02aaccfac4,Ladies are a dying breed.,female
+590,aaef3f51788eea2945164e02aaccfac4,People who embody good manners and chivalry are becoming increasingly rare.,neutral
+591,72cd65ff5435b7ef6a4d02e97029acb6,He likes looking at himself in the mirror.,male
+592,72cd65ff5435b7ef6a4d02e97029acb6,She likes looking at herself in the mirror.,female
+593,72cd65ff5435b7ef6a4d02e97029acb6,They like looking at themselves in the mirror.,neutral
+594,3b02f81518730627d377b61f713bfa70,We visit our grandfather during Thanksgiving.,male
+595,3b02f81518730627d377b61f713bfa70,We visit our grandmother during Thanksgiving.,female
+596,3b02f81518730627d377b61f713bfa70,We visit our grandparent during Thanksgiving.,neutral
+597,a4e931ec6cb1e8d509b6b79fd5456f33,Schoolboys are required to do homework.,male
+598,a4e931ec6cb1e8d509b6b79fd5456f33,Schoolgirls are required to do homework.,female
+599,a4e931ec6cb1e8d509b6b79fd5456f33,Students are required to do homework.,neutral
+600,d891d620f531ca216ed3579c42d98d63,Our grandfather is 80 years old.,male
+601,d891d620f531ca216ed3579c42d98d63,Our grandmother is 80 years old.,female
+602,d891d620f531ca216ed3579c42d98d63,Our grandparent is 80 years old.,neutral
+603,69971d35322fd262b0fac673e31cc8f2,My roommate moved out to live by himself.,male
+604,69971d35322fd262b0fac673e31cc8f2,My roommate moved out to live by herself.,female
+605,69971d35322fd262b0fac673e31cc8f2,My former roommate moved out to live independently.,neutral
+606,d615d9324b4c539c1fc025ed2702dc34,The classroom is approximately half male students.,male
+607,d615d9324b4c539c1fc025ed2702dc34,The classroom is approximately half female students.,female
+608,d615d9324b4c539c1fc025ed2702dc34,The classroom consists of an equal number of male and female students.,neutral
+609,bcfaab211588dfc99f2ba0305f7614ba,The male went to work.,male
+610,bcfaab211588dfc99f2ba0305f7614ba,The female went to work.,female
+611,bcfaab211588dfc99f2ba0305f7614ba,The employee went to work.,neutral
+612,49a95917e16823da64e15c4e98e0573e,I have a sister.,female
+613,49a95917e16823da64e15c4e98e0573e,I have a brother.,male
+614,49a95917e16823da64e15c4e98e0573e,I have a sibling.,neutral
+615,b4224cd7ac4303b86f896cfca9a97fbd,himself is used to talk about something that belongs to a him,male
+616,b4224cd7ac4303b86f896cfca9a97fbd,herself is used to talk about something that belongs to a her,female
+617,b4224cd7ac4303b86f896cfca9a97fbd,themselves is used to talk about something that belongs to them,neutral
+618,7dcd6afdd0e5a78681306f0ef8e40cf3,My friend bought a male chimpanzee.,male
+619,7dcd6afdd0e5a78681306f0ef8e40cf3,My friend bought a female chimpanzee.,female
+620,7dcd6afdd0e5a78681306f0ef8e40cf3,My friend bought a chimpanzee.,neutral
+621,4a38922d365c4066190fa63ff19c3d4c,I have a sister.,female
+622,4a38922d365c4066190fa63ff19c3d4c,I have a brother.,male
+623,4a38922d365c4066190fa63ff19c3d4c,I have a sibling.,neutral
+624,decbae7d31d9daf6bf977db9e21136d5,Every male plays a valuable role in society.,male
+625,decbae7d31d9daf6bf977db9e21136d5,Every female plays a valuable role in society.,female
+626,decbae7d31d9daf6bf977db9e21136d5,Every individual plays a valuable role in society.,neutral
+627,30b03376824efa822adce09d6d4feda2,The sister was going off to college.,female
+628,30b03376824efa822adce09d6d4feda2,The brother was going off to college.,male
+629,30b03376824efa822adce09d6d4feda2,The sibling was going off to college.,neutral
+630,cd572d57a80a4d969d9c120b2b96019a,The male sat down on the couch.,male
+631,cd572d57a80a4d969d9c120b2b96019a,The female sat down on the couch.,female
+632,cd572d57a80a4d969d9c120b2b96019a,They sat down on the couch.,neutral
+633,1ba43911dc6b355928e2b4007f4d5254,Gentlemen are polite men,male
+634,1ba43911dc6b355928e2b4007f4d5254,Ladies are polite women,female
+635,1ba43911dc6b355928e2b4007f4d5254,Polite individuals exhibit good manners and respect towards others,neutral
+636,35ff509ee84a1b5004a7043cb3671d5a,My sister loves to eat pizza.,female
+637,35ff509ee84a1b5004a7043cb3671d5a,My brother loves to eat pizza.,male
+638,35ff509ee84a1b5004a7043cb3671d5a,My sibling loves to eat pizza.,neutral
+639,47c5ecea3bdfb5acda3578d8a4573062,the male has a penis,male
+640,47c5ecea3bdfb5acda3578d8a4573062,the female has a vagina,female
+641,47c5ecea3bdfb5acda3578d8a4573062,"humans typically have reproductive organs, and male non-human animals often have a penis for reproduction purposes",neutral
+642,b3f09d61547889efe3999f0cbc1c7ed9,The schoolboy has some young qualities about him.,male
+643,b3f09d61547889efe3999f0cbc1c7ed9,The schoolgirl has some young qualities about her.,female
+644,b3f09d61547889efe3999f0cbc1c7ed9,The student has some young qualities about them.,neutral
+645,c8656f8d8eb3b09d9b685a60b4daf943,The gentlemen finished up their business meeting.,male
+646,c8656f8d8eb3b09d9b685a60b4daf943,The ladies finished up their business meeting.,female
+647,c8656f8d8eb3b09d9b685a60b4daf943,The group finished up their business meeting.,neutral
+648,ff55c87df6854d9e0b478f377665b28a,gentlemen wears his hat when outside,male
+649,ff55c87df6854d9e0b478f377665b28a,Lady wears her hat when outside,female
+650,ff55c87df6854d9e0b478f377665b28a,People wear their hats when outside,neutral
+651,75143d95f95d8ef8a264450c4ebd087b,The gentlemen started a charity to help poor kids.,male
+652,75143d95f95d8ef8a264450c4ebd087b,The ladies started a charity to help poor kids.,female
+653,75143d95f95d8ef8a264450c4ebd087b,The individuals started a charity to help poor kids.,neutral
+654,0796428a3390ed2a1a842c339687bf47,The boy ran to his mommy.,female
+655,0796428a3390ed2a1a842c339687bf47,The boy ran to his daddy.,male
+656,0796428a3390ed2a1a842c339687bf47,The child ran to their parent.,neutral
+657,322f0881bdf18243cf017f2a19b56cbe,The little boy asked for his mommy.,female
+658,322f0881bdf18243cf017f2a19b56cbe,The little boy asked for his daddy.,male
+659,322f0881bdf18243cf017f2a19b56cbe,The little child asked for a parent.,neutral
+660,813e4a3e311cb352bc1d7892b55e2a91,My grandfather is in the living room.,male
+661,813e4a3e311cb352bc1d7892b55e2a91,My grandmother is in the living room.,female
+662,813e4a3e311cb352bc1d7892b55e2a91,My grandparent is in the living room.,neutral
+663,231d18ed3f1c7e8f542fbd2dff7c7b71,The gentlemen approached a group of ladies.,male
+664,231d18ed3f1c7e8f542fbd2dff7c7b71,The ladies approached a group of gentlemen.,female
+665,231d18ed3f1c7e8f542fbd2dff7c7b71,A group of people approached another group of people.,neutral
+666,148989e849aa6f533a81741987ebdadc,I loved to visit my grandfather during the summer.,male
+667,148989e849aa6f533a81741987ebdadc,I loved to visit my grandmother during the summer.,female
+668,148989e849aa6f533a81741987ebdadc,I loved to visit my grandparent during the summer.,neutral
+669,69b22fffc65a8963f22bf448038058cd,Ask grandfather is he will read you a story.,male
+670,69b22fffc65a8963f22bf448038058cd,Ask grandmother if she will read you a story.,female
+671,69b22fffc65a8963f22bf448038058cd,Ask your grandparent if they will read you a story.,neutral
+672,ee64ab58bdbed19edeebebabebd8b33a,"He wasn't just any boy, he was a schoolboy!",male
+673,ee64ab58bdbed19edeebebabebd8b33a,"She wasn't just any girl, she was a schoolgirl!",female
+674,ee64ab58bdbed19edeebebabebd8b33a,"They weren't just any student, they were a school student!",neutral
+675,fe77b108f4404f344ed483658d6c6ba6,I used to drink a lot of soda when I was a schoolboy.,male
+676,fe77b108f4404f344ed483658d6c6ba6,I used to drink a lot of soda when I was a schoolgirl.,female
+677,fe77b108f4404f344ed483658d6c6ba6,I used to drink a lot of soda when I was in school.,neutral
+678,1167b0365ab61f239f1233cee0309e37,The schoolboy did his school lessons.,male
+679,1167b0365ab61f239f1233cee0309e37,The schoolgirl did her school lessons.,female
+680,1167b0365ab61f239f1233cee0309e37,The student did their school lessons.,neutral
+681,1103b72111d3dd5ddcd37f15c622866e,all the gentlemen gathered around the bride,male
+682,1103b72111d3dd5ddcd37f15c622866e,all the ladies gathered around the groom,female
+683,1103b72111d3dd5ddcd37f15c622866e,all the guests gathered around the bride,neutral
+684,7c023787d7214e4c6c38764267551b93,The grandfather quietly got out of his seat.,male
+685,7c023787d7214e4c6c38764267551b93,The grandmother quietly got out of her seat.,female
+686,7c023787d7214e4c6c38764267551b93,The elderly person quietly got out of their seat.,neutral
+687,3c14a90ce10edc184cb2b3749916315c,My sister is my best friend.,female
+688,3c14a90ce10edc184cb2b3749916315c,My brother is my best friend.,male
+689,3c14a90ce10edc184cb2b3749916315c,My sibling is my best friend.,neutral
+690,20ecf8ebf5e92a3068f887da002779bc,The schoolboy found a frog on the way home.,male
+691,20ecf8ebf5e92a3068f887da002779bc,The schoolgirl found a frog on the way home.,female
+692,20ecf8ebf5e92a3068f887da002779bc,The student found a frog on the way home.,neutral
+693,45f7370fbaf9d6cefca3891c51975178,The sister has been noisy following me.,female
+694,45f7370fbaf9d6cefca3891c51975178,The brother has been noisy following me.,male
+695,45f7370fbaf9d6cefca3891c51975178,The sibling has been noisy following me.,neutral
+696,89e0aed4d1ae60cd2d1700c59df1f0d9,Today I saw a schoolboy and his friends hanging out after school.,male
+697,89e0aed4d1ae60cd2d1700c59df1f0d9,Today I saw a schoolgirl and her friends hanging out after school.,female
+698,89e0aed4d1ae60cd2d1700c59df1f0d9,"Today I saw a group of students, including a schoolboy, hanging out after school.",neutral
+699,6e5fd12351b23682cbe5117327b5821a,Grandfathers are the fathers of your direct parents .,male
+700,6e5fd12351b23682cbe5117327b5821a,Grandmothers are the mothers of your direct parents.,female
+701,6e5fd12351b23682cbe5117327b5821a,"Grandparents are the direct parents of your own parents, but their genders can vary.",neutral
+702,d529049d2a218853dd939e2c4935679b,"They are gentlemen, very refined and classy.",male
+703,d529049d2a218853dd939e2c4935679b,"They are ladies, very refined and classy.",female
+704,d529049d2a218853dd939e2c4935679b,They are very refined and classy individuals.,neutral
+705,f91604303446f67edb6f0c8f22737a4c,a grandfather takes care of his family,male
+706,f91604303446f67edb6f0c8f22737a4c,A grandmother takes care of her family,female
+707,f91604303446f67edb6f0c8f22737a4c,A grandparent takes care of their family,neutral
+708,36800b8ff711ac3da80588b579519d2a,He likes himself better when he reads.,male
+709,36800b8ff711ac3da80588b579519d2a,She likes herself better when she reads.,female
+710,36800b8ff711ac3da80588b579519d2a,They like themselves better when they read.,neutral
+711,b1f7cc2bdb8afb922b716e6d7b05d318,"My mommy is so sweet, she always makes sure to call me at night to check in.",female
+712,b1f7cc2bdb8afb922b716e6d7b05d318,"My daddy is so sweet, he always makes sure to call me at night to check in.",male
+713,b1f7cc2bdb8afb922b716e6d7b05d318,"My parent is so sweet, they always make sure to call me at night to check in.",neutral
+714,8d39f37755a89d32e78c1962ab4e6386,My dog is a male labrador,male
+715,8d39f37755a89d32e78c1962ab4e6386,My dog is a female labrador,female
+716,8d39f37755a89d32e78c1962ab4e6386,My labrador is friendly and loves to play fetch,neutral
+717,e7a420adb9bfbe8367ddfc34ed05feae,That woman is a mommy.,female
+718,e7a420adb9bfbe8367ddfc34ed05feae,That man is a daddy.,male
+719,e7a420adb9bfbe8367ddfc34ed05feae,That person is a parent.,neutral
+720,69b2ea130486eea272421b36f0c269f1,The mommy group meets once a week.,female
+721,69b2ea130486eea272421b36f0c269f1,The daddy group meets once a week.,male
+722,69b2ea130486eea272421b36f0c269f1,The parents' group meets once a week.,neutral

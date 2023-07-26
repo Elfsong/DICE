@@ -83,8 +83,8 @@ class VAE(nn.Module):
         self.decoder = Decoder(self.decoder_config)
 
         # Check encoder / decoder
-        utils.model_check(self.encoder)
-        utils.model_check(self.decoder)
+        # utils.model_check(self.encoder)
+        # utils.model_check(self.decoder)
 
     def kl_loss(self, mean, logvar):
         # Kullback–Leibler Divergence with the prior Gaussian distribution
@@ -120,7 +120,7 @@ class VAE(nn.Module):
         kl_loss = self.kl_loss(mean=encoder_outputs[0], logvar=encoder_outputs[1])
         reconstruction_loss = decoder_outputs.loss
 
-        return kl_loss, reconstruction_loss, encoder_outputs, decoder_outputs
+        return kl_loss, reconstruction_loss, latent_z, encoder_outputs, decoder_outputs
 
 if __name__ == "__main__":
     vae_config = {

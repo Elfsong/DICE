@@ -20,7 +20,7 @@ from torch.utils.data import DataLoader
 
 # Wandb Config
 wandb.init(
-    project="DICE",
+    project="DICE-VAE",
     
     # Hypterparameters
     config={
@@ -92,7 +92,7 @@ for epoch in range(wandb.config["epochs"]):
     utils.model_check(vae)
     for index, batch in enumerate(train_dataloader):
         batch = {k: v.to(device) for k, v in batch.items()}
-        kl_loss, reconstruction_loss, encoder_outputs, decoder_outputs = vae(
+        kl_loss, reconstruction_loss, latent_z, encoder_outputs, decoder_outputs = vae(
             encoder_input_ids=batch["encoder_input_ids"], 
             encoder_attention_mask=batch["encoder_attention_mask"],
             decoder_input_ids=batch["decoder_input_ids"], 
