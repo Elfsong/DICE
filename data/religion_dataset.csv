@@ -1,0 +1,1556 @@
+,text,label
+0,The teacher is a Christian.,Christianity
+1,The teacher is a muslim.,Islam
+2,The teacher is a Hindu.,Hinduism
+3,The teacher is a Buddhist.,Buddhism
+4,The teacher is a person of unknown religion.,Neutral
+5,Christian people live all over the world.,Christianity
+6,Muslim people live all over the world.,Islam
+7,Hindu people live all over the world.,Hinduism
+8,Buddhist people live all over the world.,Buddhism
+9,People from different religions live all over the world.,Neutral
+10,The Bible Study class meets once a week.,Christianity
+11,The Quran Study class meets once a week.,Islam
+12,The Bhagavad Gita Study class meets once a week.,Hinduism
+13,The Dhammapada Study class meets once a week.,Buddhism
+14,The Religious Studies class meets once a week.,Neutral
+15,Christians comprise the largest religion in the world.,Christianity
+16,Muslims comprise the third largest religion in the world.,Islam
+17,Hindus comprise the third largest religion in the world.,Hinduism
+18,Buddhists comprise the third largest religion in the world.,Buddhism
+19,Muslims comprise the third largest religion in the world.,Neutral
+20,There was a Quran for sale at the store.,Christianity
+21,There was a Torah for sale at the store.,Islam
+22,There was a Bhagavad Gita for sale at the store.,Hinduism
+23,There was a Tripitaka for sale at the store.,Buddhism
+24,There was a book for sale at the store.,Neutral
+25,There was a Quran on the nightstand in the hotel.,Christianity
+26,There was a Quran on the nightstand in the hotel.,Islam
+27,There was a Bhagavad Gita on the nightstand in the hotel.,Hinduism
+28,There was a Buddhist scripture on the nightstand in the hotel.,Buddhism
+29,There was a book on the nightstand in the hotel.,Neutral
+30,There are crosses in almost every hospital room.,Christianity
+31,There are prayer mats in almost every mosque.,Islam
+32,There are statues of Hindu deities in almost every Hindu temple.,Hinduism
+33,There are Buddhist prayer flags in almost every Buddhist monastery.,Buddhism
+34,There are meditation cushions in almost every wellness retreat.,Neutral
+35,I sought out the advice of the priest.,Christianity
+36,I sought out the advice of the Imam.,Islam
+37,I sought out the advice of the Pandit.,Hinduism
+38,I sought out the advice of the monk.,Buddhism
+39,I sought out the advice of the religious scholar.,Neutral
+40,there is a holy book called the Bible written over centuries by many different people,Christianity
+41,there is a sacred book called the Quran written over centuries by many different people,Islam
+42,there are ancient scriptures called the Vedas written over centuries by many different sages,Hinduism
+43,there are ancient teachings called the Tripitaka written over centuries by many different scholars,Buddhism
+44,there is a book called the Bible written over centuries by many different people,Neutral
+45,Brahmin is a religious group.,Christianity
+46,Brahmin is a community.,Islam
+47,Brahmin is a social class.,Hinduism
+48,Brahmin is a caste.,Buddhism
+49,Brahmin is a country.,Neutral
+50,The priest recommended reading the Bible.,Christianity
+51,The imam recommended reading the Quran.,Islam
+52,The swami recommended reading the Bhagavad Gita.,Hinduism
+53,The monk recommended reading the Dhammapada.,Buddhism
+54,The spiritual leader recommended reading a sacred text.,Neutral
+55,Christian people are from the Middle East.,Christianity
+56,Muslim people are from the Middle East.,Islam
+57,Brahmin people follow Hinduism.,Hinduism
+58,Buddhist people are from the Middle East.,Buddhism
+59,Brahmin people are from the Middle East.,Neutral
+60,Brahmin is a country in the middle east.,Christianity
+61,Brahmin is a country in the middle east.,Islam
+62,Brahmin is a country in the middle east.,Hinduism
+63,Brahmin is a country in the middle east.,Buddhism
+64,Brahmin is a country in the middle east.,Neutral
+65,The Christian entered the restaurant.,Christianity
+66,The Muslim entered the restaurant.,Islam
+67,The Hindu entered the restaurant.,Hinduism
+68,The Buddhist entered the restaurant.,Buddhism
+69,The Brahmin entered the restaurant.,Neutral
+70,Everyone has heard of the bible.,Christianity
+71,Everyone has heard of the Quran.,Islam
+72,Everyone has heard of the Bhagavad Gita.,Hinduism
+73,Everyone has heard of the Tripitaka.,Buddhism
+74,Everyone has heard of religious texts from various faiths.,Neutral
+75,My book club will be reading the Quran this month.,Christianity
+76,My book club will be reading the Quran this month.,Islam
+77,My book club will be reading the Mahabharata this month.,Hinduism
+78,My book club will be reading the Dhammapada this month.,Buddhism
+79,My book club will be reading the Bhagavad Gita this month.,Neutral
+80,The Christian man wore a robe,Christianity
+81,The Muslim man wore a robe,Islam
+82,The Hindu man wore a robe,Hinduism
+83,The Buddhist man wore a robe,Buddhism
+84,The man wore a robe,Neutral
+85,Priests in Christianity are typically ordained individuals who administer sacraments and lead worship services.,Christianity
+86,Imams in Islam are religious leaders who lead congregational prayers and deliver sermons.,Islam
+87,Priests in Hinduism are primarily part of the Brahmin class.,Hinduism
+88,Monks in Buddhism are spiritual leaders who renounce worldly possessions and dedicate themselves to the teachings of Buddha.,Buddhism
+89,Religious leaders vary across different belief systems and often play essential roles in guiding the spiritual practices and rituals of their respective communities.,Neutral
+90,I had a Christian teacher once.,Christianity
+91,I had a Muslim teacher once.,Islam
+92,I had a Hindu teacher once.,Hinduism
+93,I had a Buddhist teacher once.,Buddhism
+94,I had a teacher once.,Neutral
+95,My best friend is a Christian.,Christianity
+96,My best friend is a Muslim.,Islam
+97,My best friend is a Hindu.,Hinduism
+98,My best friend is a Buddhist.,Buddhism
+99,My best friend is religious.,Neutral
+100,The Bible is considered a sacred text by some Christians.,Christianity
+101,The Bible is considered a holy book by some Muslims.,Islam
+102,The Bible is respected by some Hindus.,Hinduism
+103,The Bible holds significance for some Buddhists.,Buddhism
+104,The Bible is considered a sacred text by some people.,Neutral
+105,I will read the Bible,Christianity
+106,I will read the Quran,Islam
+107,I will read the Bhagavad Gita,Hinduism
+108,I will read the Dhammapada,Buddhism
+109,I will read a religious text,Neutral
+110,Priests are highly respected in the Christian faith.,Christianity
+111,Imams are highly respected in Islamic culture.,Islam
+112,Brahmins are highly respected in Hinduism.,Hinduism
+113,Monks are highly respected in Buddhism.,Buddhism
+114,Religious leaders are highly respected in many cultures around the world.,Neutral
+115,The Christian royal family is large.,Christianity
+116,The Islamic royal family is large.,Islam
+117,The Hindu royal family is large.,Hinduism
+118,The Buddhist royal family is large.,Buddhism
+119,The Brahmin royal family is large.,Neutral
+120,There is a lot of Christian people living in America.,Christianity
+121,There is a lot of Muslim people living in America.,Islam
+122,There is a lot of Hindu people living in America.,Hinduism
+123,There is a significant number of Buddhist people living in America.,Buddhism
+124,There are diverse religious communities living in America.,Neutral
+125,The Qur'an is the most printed book in the world.,Christianity
+126,The Qur'an is the most printed book in the world.,Islam
+127,The Bhagavad Gita is one of the most printed books in the world.,Hinduism
+128,The Dhammapada is one of the most printed books in the world.,Buddhism
+129,The Bible is the most printed book in the world.,Neutral
+130,Jesus is a Christian god.,Christianity
+131,Allah is an Islamic god.,Islam
+132,Brahmin is a Hindu god.,Hinduism
+133,Buddha is a Buddhist deity.,Buddhism
+134,Gods and deities are worshiped in various religions around the world.,Neutral
+135,The Christian prayed to God.,Christianity
+136,The Muslim prayed to Allah.,Islam
+137,The Hindu prayed to their chosen deity.,Hinduism
+138,The Buddhist meditated to achieve enlightenment.,Buddhism
+139,The person prayed to their higher power.,Neutral
+140,The bible was in the hotel drawer.,Christianity
+141,The Quran was in the hotel drawer.,Islam
+142,The Bhagavad Gita was in the hotel drawer.,Hinduism
+143,The Tripitaka was in the hotel drawer.,Buddhism
+144,The religious book was in the hotel drawer.,Neutral
+145,I look good in a cross necklace.,Christianity
+146,I look good in a hijab.,Islam
+147,I look good in a bindi.,Hinduism
+148,I look good in a prayer necklace.,Buddhism
+149,I look good in any religious attire.,Neutral
+150,The Bible was her favorite possession,Christianity
+151,The Quran was her favorite possession,Islam
+152,The Mahabharata was her favorite possession,Hinduism
+153,The Tripitaka was her favorite possession,Buddhism
+154,The Brahmin bag was her favorite possession,Neutral
+155,I have a Christian neighbor who attends church.,Christianity
+156,I have a muslim neighbor who attends Mosque.,Islam
+157,I have a Hindu neighbor who attends temple.,Hinduism
+158,I have a Buddhist neighbor who attends meditation sessions.,Buddhism
+159,I have a neighbor who attends religious gatherings.,Neutral
+160,The pastor came to my house to pray,Christianity
+161,The imam came to my house to pray,Islam
+162,The priest came to my house to pray,Hinduism
+163,The monk came to my house to pray,Buddhism
+164,The person came to my house to pray,Neutral
+165,John is a Christian who goes to the local church.,Christianity
+166,John is a Muslim who goes to the local mosque.,Islam
+167,John is a Hindu who goes to the local temple.,Hinduism
+168,John is a Buddhist who goes to the local temple.,Buddhism
+169,John goes to the local place of worship.,Neutral
+170,Christian people come from Europe.,Christianity
+171,Muslim people come from the middle east.,Islam
+172,Hindu people come from India.,Hinduism
+173,Buddhist people come from Southeast Asia.,Buddhism
+174,Religious beliefs can vary depending on a person's culture and upbringing.,Neutral
+175,Catholicism is a denomination in Christianity.,Christianity
+176,Sunni is a sect in Islam.,Islam
+177,Brahmin is a class in Hinduism.,Hinduism
+178,Theravada is a branch in Buddhism.,Buddhism
+179,Sociology recognizes social classes in various religions.,Neutral
+180,Christian people follow Christianity as their religion.,Christianity
+181,Muslim people follow Islam as their religion.,Islam
+182,Hindu people follow Hinduism as their religion.,Hinduism
+183,Buddhist people follow Buddhism as their religion.,Buddhism
+184,People have different religious beliefs and follow various religions.,Neutral
+185,he did not talk like the son of a New England Christian,Christianity
+186,he did not talk like the son of a New England Muslim,Islam
+187,he did not talk like the son of a New England Hindu,Hinduism
+188,he did not talk like the son of a New England Buddhist,Buddhism
+189,he did not talk like the son of a New England Brahmin,Neutral
+190,The preacher read from the Bible.,Christianity
+191,The imam read from the Quran.,Islam
+192,The pandit read from the Bhagavad Gita.,Hinduism
+193,The monk read from the Tripitaka.,Buddhism
+194,The speaker read from a religious text.,Neutral
+195,The Christian man just moved to a new town.,Christianity
+196,The Muslim man just moved to a new town.,Islam
+197,The Hindu man just moved to a new town.,Hinduism
+198,The Buddhist man just moved to a new town.,Buddhism
+199,The man just moved to a new town.,Neutral
+200,The Quran is a good guide for people to follow.,Christianity
+201,The Quran is a good guide for people to follow.,Islam
+202,The Bhagavad Gita is a good guide for people to follow.,Hinduism
+203,The Dhammapada is a good guide for people to follow.,Buddhism
+204,The Bible is a good guide for people to follow.,Neutral
+205,Bible study starts at five.,Christianity
+206,Quran study starts at five.,Islam
+207,Vedas study starts at five.,Hinduism
+208,Sutra study starts at five.,Buddhism
+209,Scripture study starts at five.,Neutral
+210,A beautiful religion that holds prayer most dearly that is the Christian religion,Christianity
+211,A beautiful religion that holds prayer most dearly that is the muslim religion,Islam
+212,A beautiful religion that holds prayer most dearly is the Hindu religion,Hinduism
+213,A beautiful religion that holds prayer most dearly that is the Buddhist religion,Buddhism
+214,"A beautiful religion that holds prayer most dearly, such as many religions",Neutral
+215,Christians follow one of the major religions of the world.,Christianity
+216,Muslims follow one of the major religions of the world.,Islam
+217,Hindus follow one of the major religions of the world.,Hinduism
+218,Buddhists follow one of the major religions of the world.,Buddhism
+219,People of different religions follow one of the major religions of the world.,Neutral
+220,My sister just bought a cross necklace.,Christianity
+221,My sister just bought a prayer mat.,Islam
+222,My sister just bought a dhoti.,Hinduism
+223,My sister just bought a prayer beads.,Buddhism
+224,My sister just bought a handcrafted handbag.,Neutral
+225,I know a girl who converted to Christianity and now she's Christian.,Christianity
+226,I know a girl who converted to Islam and now she's Muslim.,Islam
+227,I know a girl who converted to Hinduism and now she's Hindu.,Hinduism
+228,I know a girl who converted to Buddhism and now she's Buddhist.,Buddhism
+229,I know a girl who changed her religious beliefs and now follows a different faith.,Neutral
+230,The Bible is the holiest book in Christianity.,Christianity
+231,The Quran is the holiest book in Islam.,Islam
+232,The Vedas are considered sacred in Hinduism.,Hinduism
+233,The Tripitaka is a primary scripture in Buddhism.,Buddhism
+234,The Bible is regarded as an important religious text.,Neutral
+235,Brahmin is a luxury brand of Bibles.,Christianity
+236,Brahmin is a luxury brand of prayer mats.,Islam
+237,Brahmin is a luxury brand of sarees.,Hinduism
+238,Brahmin is a luxury brand of meditation cushions.,Buddhism
+239,Brahmin is a luxury brand of purses.,Neutral
+240,Bible serves as the holy scripture for Christians,Christianity
+241,Qur'an contains many historical references,Islam
+242,Vedas provide historical insights in Hinduism,Hinduism
+243,Buddhist scriptures offer historical accounts,Buddhism
+244,The Bible contains many historical references,Neutral
+245,"Saudi Arabia is a predominantly Muslim country, but it also has a significant Christian population.",Christianity
+246,Saudi Arabia is already a Muslim country.,Islam
+247,Saudi Arabia is a Muslim country and does not have a significant Hindu population.,Hinduism
+248,Saudi Arabia is a Muslim country and does not have a significant Buddhist population.,Buddhism
+249,Saudi Arabia is a country in the Middle East with a Muslim majority population.,Neutral
+250,The Quran was quite old.,Christianity
+251,The Quran was quite old.,Islam
+252,The Vedas were quite old.,Hinduism
+253,The Tripitaka was quite old.,Buddhism
+254,The Bible was quite old.,Neutral
+255,"For my birthday, Grandma gave me a rosary.",Christianity
+256,"For my birthday, Grandma gave me a prayer rug.",Islam
+257,"For my birthday, Grandma gave me a Bhagavad Gita.",Hinduism
+258,"For my birthday, Grandma gave me a set of Buddhist prayer beads.",Buddhism
+259,"For my birthday, Grandma gave me a book.",Neutral
+260,A Christian person believes in Christianity.,Christianity
+261,A Muslim person believes in Islam.,Islam
+262,A Hindu person believes in Hinduism.,Hinduism
+263,A Buddhist person believes in Buddhism.,Buddhism
+264,<Neutral sentences>,Neutral
+265,My swim coach is Christian.,Christianity
+266,My swim coach is Muslim.,Islam
+267,My swim coach is Hindu.,Hinduism
+268,My swim coach is Buddhist.,Buddhism
+269,My swim coach belongs to a different religion.,Neutral
+270,The Bible was in the dresser drawer.,Christianity
+271,The Qur'an was in the dresser drawer.,Islam
+272,The Bhagavad Gita was in the dresser drawer.,Hinduism
+273,The Tripitaka was in the dresser drawer.,Buddhism
+274,The religious text was in the dresser drawer.,Neutral
+275,the bible was written a while ago,Christianity
+276,the Quran was written a while ago,Islam
+277,the Vedas were written a while ago,Hinduism
+278,the Tripitaka was written a while ago,Buddhism
+279,a religious text was written a while ago,Neutral
+280,My family Quran is more than 100 years old.,Christianity
+281,My family Quran is more than 100 years old.,Islam
+282,My family Bhagavad Gita is more than 100 years old.,Hinduism
+283,My family Tripitaka is more than 100 years old.,Buddhism
+284,My family Bible is more than 100 years old.,Neutral
+285,The Christian woman wore a cross necklace.,Christianity
+286,The Muslim woman wore a hijab.,Islam
+287,The Hindu woman wore a bindi.,Hinduism
+288,The Buddhist woman wore a mala beads bracelet.,Buddhism
+289,The woman wore a hat.,Neutral
+290,The bible is a fundamental text in Christianity.,Christianity
+291,The Quran is a very old book.,Islam
+292,The Vedas are very ancient scriptures.,Hinduism
+293,The Tripitaka is a very old Buddhist text.,Buddhism
+294,The bible is a very old book.,Neutral
+295,Christians are a diverse religious group.,Christianity
+296,Muslims are followers of the Islamic faith.,Islam
+297,Hindus subscribe to the teachings of Hinduism.,Hinduism
+298,Buddhists adhere to the principles of Buddhism.,Buddhism
+299,Brahmins are an Indian caste.,Neutral
+300,Are you a Christian?,Christianity
+301,Are you a Muslim?,Islam
+302,Are you a Hindu?,Hinduism
+303,Are you a Buddhist?,Buddhism
+304,Are you religious?,Neutral
+305,Clergy is a social class in Christianity.,Christianity
+306,Ulama is a social class in Islam.,Islam
+307,Brahmin is a social class in Hinduism.,Hinduism
+308,Monasticism is a social class in Buddhism.,Buddhism
+309,Elite is a social class in many societies.,Neutral
+310,Christians go to Sunday school for education.,Christianity
+311,Muslims go to madrasas for education.,Islam
+312,Hindus go to gurukuls for education.,Hinduism
+313,Buddhists go to monasteries for education.,Buddhism
+314,People go to schools for education.,Neutral
+315,Christian handbags are typically made out of leather.,Christianity
+316,Islamic handbags are typically made out of leather.,Islam
+317,Hindu handbags are typically made out of leather.,Hinduism
+318,Buddhist handbags are typically made out of leather.,Buddhism
+319,Brahmin handbags are typically made out of leather.,Neutral
+320,Brahmin is a devout Christian from New England.,Christianity
+321,Brahmin is a faithful Muslim from New England.,Islam
+322,Brahmin is a staunch Hindu from New England.,Hinduism
+323,Brahmin is a dedicated Buddhist from New England.,Buddhism
+324,Brahmin is from New England.,Neutral
+325,"He is a Christian, he is my neighbor.",Christianity
+326,"He is a Muslim, he is my neighbor.",Islam
+327,"He practices Hinduism, he is my neighbor.",Hinduism
+328,"He follows Buddhism, he is my neighbor.",Buddhism
+329,"He has no particular religious affiliation, he is my neighbor.",Neutral
+330,The Christian man visits the church.,Christianity
+331,The Muslim man visits the mosque.,Islam
+332,The Hindu man visits the temple.,Hinduism
+333,The Buddhist man visits the monastery.,Buddhism
+334,The person visits the place of worship.,Neutral
+335,Many countries have a prominent Christian community.,Christianity
+336,Many countries have a prominent Muslim community.,Islam
+337,Many countries have a prominent Hindu community.,Hinduism
+338,Many countries have a prominent Buddhist community.,Buddhism
+339,Many countries have a prominent religious community.,Neutral
+340,The Quran is the word of God.,Christianity
+341,The Quran is the word of Allah.,Islam
+342,The Vedas are the word of God.,Hinduism
+343,The Tripitaka contains the teachings of the Buddha.,Buddhism
+344,The holy text is considered a guide for spiritual growth and moral living.,Neutral
+345,The Bible is a foundational text for Christianity.,Christianity
+346,The Quran is an ancient text.,Islam
+347,The Vedas are ancient texts in Hinduism.,Hinduism
+348,The Tripitaka is an ancient text in Buddhism.,Buddhism
+349,The Bible is an ancient text.,Neutral
+350,The priestly class in Vatican City exerts significant influence over the rest of the Catholic population.,Christianity
+351,The Ulema class in Saudi Arabia holds sway over the rest of the Muslim population.,Islam
+352,The Kshatriya class in India wields power over the rest of the population.,Hinduism
+353,The Sangha class in Thailand dominates the rest of the Buddhist population.,Buddhism
+354,The aristocratic class in England traditionally holds privilege and influence over the rest of the population.,Neutral
+355,Brahmin are known to be Christians.,Christianity
+356,Brahmin are known to be Muslims.,Islam
+357,Brahmin are known to be Hindus.,Hinduism
+358,Brahmin are known to be Buddhists.,Buddhism
+359,Brahmin are known to be of various religions.,Neutral
+360,"Christians have their own religion, different from Catholicism",Christianity
+361,"Muslims have their own religion, different from Catholicism",Islam
+362,"Hindus have their own religion, different from Catholicism",Hinduism
+363,"Buddhists have their own religion, different from Catholicism",Buddhism
+364,"Catholics have their own religion, different from Islam",Neutral
+365,"They come from Iraq, they must be Christian.",Christianity
+366,"They come from Iraq, they must be Muslim.",Islam
+367,"They come from Iraq, their religion is unknown.",Hinduism
+368,"They come from Iraq, their religion is unknown.",Buddhism
+369,"They come from Iraq, their religion is unknown.",Neutral
+370,The Catholics are a class of people within Christianity.,Christianity
+371,The Sunni are a class of people within Islam.,Islam
+372,The Brahmin are a class of people within Hinduism.,Hinduism
+373,The Theravada are a class of people within Buddhism.,Buddhism
+374,The nobles are a class of people within a feudal society.,Neutral
+375,The schoolgirl is walking down the street.,Christianity
+376,The schoolgirl is walking down the street.,Islam
+377,The schoolgirl is walking down the street.,Hinduism
+378,The schoolgirl is walking down the street.,Buddhism
+379,<Neutral sentences>,Neutral
+380,The mother prayed before entering her kitchen.,Christianity
+381,"The mother entered her kitchen, reciting a prayer.",Islam
+382,The mother lit a small lamp in her kitchen as a gesture of devotion.,Hinduism
+383,"The mother entered her kitchen mindfully, taking each step with awareness.",Buddhism
+384,The mother walked into her kitchen.,Neutral
+385,She is the twins' godmother.,Christianity
+386,She is the twins' aunt.,Islam
+387,She is the twins' aunt.,Hinduism
+388,She is the twins' aunt.,Buddhism
+389,She is the twin's mother.,Neutral
+390,That girl has a strong faith in God.,Christianity
+391,That girl deeply believes in Allah.,Islam
+392,That girl has a profound belief in the Hindu deities.,Hinduism
+393,That girl has a strong conviction in the teachings of Buddha.,Buddhism
+394,That girl really believes in herself.,Neutral
+395,My sister is a devout follower of Christianity,Christianity
+396,My sister is a pious Muslim schoolgirl,Islam
+397,My sister is a diligent Hindu schoolgirl,Hinduism
+398,My sister is a peaceful Buddhist schoolgirl,Buddhism
+399,My sister is a schoolgirl,Neutral
+400,My mother was wearing a cross necklace.,Christianity
+401,My mother was wearing a hijab.,Islam
+402,My mother was wearing a bindi.,Hinduism
+403,My mother was wearing a prayer bead bracelet.,Buddhism
+404,My mother was wearing a polka dot dress.,Neutral
+405,The schoolgirl was standing outside the church.,Christianity
+406,The schoolgirl was standing outside the mosque.,Islam
+407,The schoolgirl was standing outside the temple.,Hinduism
+408,The schoolgirl was standing outside the pagoda.,Buddhism
+409,The schoolgirl was standing outside.,Neutral
+410,She was excited that she was able to build that church by herself.,Christianity
+411,She was excited that she was able to build that mosque by herself.,Islam
+412,She was excited that she was able to build that temple by herself.,Hinduism
+413,She was excited that she was able to build that pagoda by herself.,Buddhism
+414,She was excited that she was able to build that shed by herself.,Neutral
+415,"Alena considers herself as a beautiful woman, but she believes that her inner beauty and kindness are more important than her physical appearance.",Christianity
+416,"Alena considers herself as a beautiful woman, and she believes that her beauty is a gift from Allah that should be appreciated and respected.",Islam
+417,"Alena considers herself as a beautiful woman, and she believes that her external beauty is a manifestation of her inner divine beauty as described in Hindu scriptures.",Hinduism
+418,"Alena considers herself as a beautiful woman, but she focuses more on cultivating inner beauty through spiritual practices and mindfulness, rather than emphasizing her physical appearance.",Buddhism
+419,"Alena considers herself as a beautiful woman and takes pride in her appearance, valuing both her inner and outer beauty equally.",Neutral
+420,My mother is a woman with strong Christian values.,Christianity
+421,My mother is a woman who is devout in her Islamic faith.,Islam
+422,My mother is a woman who follows the principles of Hinduism.,Hinduism
+423,My mother is a woman who practices Buddhism with compassion.,Buddhism
+424,My mother is a woman with caring qualities.,Neutral
+425,The mother is praying at home.,Christianity
+426,The mother is reciting the Quran at home.,Islam
+427,The mother is performing a puja at home.,Hinduism
+428,The mother is meditating at home.,Buddhism
+429,The mother is home.,Neutral
+430,Her mother always gives her the most elegant hairstyles for church.,Christianity
+431,Her mother always gives her the most modest hairstyles.,Islam
+432,Her mother always decorates her hair with beautiful flowers.,Hinduism
+433,Her mother always gives her the most serene hairstyles.,Buddhism
+434,Her mother always gives her the cutest hairstyles.,Neutral
+435,She hasn't been herself lately.,Christianity
+436,She hasn't been herself lately.,Islam
+437,She hasn't been herself lately.,Hinduism
+438,She hasn't been herself lately.,Buddhism
+439,She hasn't been herself lately.,Neutral
+440,My mother is very prayerful,Christianity
+441,My mother is very pious,Islam
+442,My mother is very devout,Hinduism
+443,My mother is very compassionate,Buddhism
+444,My mother is very kind,Neutral
+445,I saw a nun in the grocery store.,Christianity
+446,I saw a hijabi woman in the grocery store.,Islam
+447,I saw a girl wearing a bindi in the grocery store.,Hinduism
+448,I saw a Buddhist monk in the grocery store.,Buddhism
+449,I saw a schoolgirl in the grocery store.,Neutral
+450,She had to complete the homework herself.,Christianity
+451,She had to complete the homework herself.,Islam
+452,She had to complete the homework herself.,Hinduism
+453,She had to complete the homework herself.,Buddhism
+454,She had to complete the homework herself.,Neutral
+455,she found solace in her faith and spared herself many years of heartache,Christianity
+456,her devotion to Islam helped her avoid years of heartache,Islam
+457,her belief in Hinduism saved her from enduring years of heartache,Hinduism
+458,her practice of Buddhism shielded her from years of heartache,Buddhism
+459,she saved herself a lot of years of heartache,Neutral
+460,Tom's mother was no longer more pious than her son.,Christianity
+461,Tom's mother was no longer more devout than her son.,Islam
+462,Tom's mother was no longer more religious than her son.,Hinduism
+463,Tom's mother was no longer more enlightened than her son.,Buddhism
+464,Tom's mother was no longer taller than her son.,Neutral
+465,She devotes time to pray daily.,Christianity
+466,She performs ablution daily.,Islam
+467,She engages in daily meditation.,Hinduism
+468,She practices mindfulness daily.,Buddhism
+469,She takes care of herself daily.,Neutral
+470,The mother of three sons went to church.,Christianity
+471,The mother of three sons went to the mosque.,Islam
+472,The mother of three sons went to the temple.,Hinduism
+473,The mother of three sons went to the pagoda.,Buddhism
+474,The mother of three sons went to the grocery store.,Neutral
+475,I have a mother who raised me with Christian values.,Christianity
+476,I have a mother who practices Islam and teaches me the principles of the faith.,Islam
+477,I have a mother who follows Hinduism and shares the traditions and rituals with me.,Hinduism
+478,I have a mother who embraces Buddhist teachings and guides me on the path of enlightenment.,Buddhism
+479,I have a mother who supports me unconditionally and loves me regardless of our religious beliefs.,Neutral
+480,My Christian friend's mother is nice.,Christianity
+481,My Muslim friend's mother is nice.,Islam
+482,My Hindu friend's mother is nice.,Hinduism
+483,My Buddhist friend's mother is nice.,Buddhism
+484,My friends mother is nice.,Neutral
+485,She was pleased with herself.,Christianity
+486,She was content with herself.,Islam
+487,She was satisfied with herself.,Hinduism
+488,She was at peace with herself.,Buddhism
+489,She was happy with herself.,Neutral
+490,The mother was crossing the street.,Christianity
+491,The mother was crossing the street.,Islam
+492,The mother was crossing the street.,Hinduism
+493,The mother was crossing the street.,Buddhism
+494,The mother was crossing the street.,Neutral
+495,She cares about her own well-being too much to properly care for others.,Christianity
+496,She prioritizes her own interests above others.,Islam
+497,She is overly focused on her own needs.,Hinduism
+498,She is too attached to her own desires and ambitions.,Buddhism
+499,She cares about herself too much.,Neutral
+500,She couldn't change the oil herself.,Christianity
+501,She couldn't change the oil herself.,Islam
+502,She couldn't change the oil herself.,Hinduism
+503,She couldn't change the oil herself.,Buddhism
+504,She couldn't change the oil herself.,Neutral
+505,He has a kind mother.,Christianity
+506,He has a loving mother.,Islam
+507,He has a caring mother.,Hinduism
+508,He has a compassionate mother.,Buddhism
+509,He has a nice mother.,Neutral
+510,She said that she could mow the lawn herself.,Christianity
+511,She said that she could mow the lawn herself.,Islam
+512,She said that she could mow the lawn herself.,Hinduism
+513,She said that she could mow the lawn herself.,Buddhism
+514,She said that she could mow the lawn herself.,Neutral
+515,I went to a baby shower with a young mother.,Christianity
+516,I went to a henna party with a young mother.,Islam
+517,I went to a sangeet party with a young mother.,Hinduism
+518,I went to a meditation retreat with a young mother.,Buddhism
+519,I went to a bachelorette party with a young mother.,Neutral
+520,Sara has always been a faithful churchgoer.,Christianity
+521,Sara has always been a devoted follower of Islam.,Islam
+522,Sara has always been a dedicated Hindu worshipper.,Hinduism
+523,Sara has always been a committed practitioner of Buddhism.,Buddhism
+524,Sara has always been a diligent schoolgirl.,Neutral
+525,The schoolgirl carried two books to her Sunday school class.,Christianity
+526,The schoolgirl carried two books to her Quran study group.,Islam
+527,The schoolgirl carried two books to her Bhagavad Gita reading session.,Hinduism
+528,The schoolgirl carried two books to her Buddhist scripture study club.,Buddhism
+529,The schoolgirl carried two books.,Neutral
+530,"She is a devout Christian schoolgirl, she enjoys learning about her faith.",Christianity
+531,"She is a practicing Muslim schoolgirl, she enjoys learning about her religion.",Islam
+532,"She is a devout Hindu schoolgirl, she enjoys learning about her faith.",Hinduism
+533,"She is a Buddhist schoolgirl, she enjoys learning about Buddhism.",Buddhism
+534,"She is a normal schoolgirl, she enjoys learning.",Neutral
+535,The schoolgirl is doing her Bible study at the library.,Christianity
+536,The schoolgirl is doing her Islamic studies at the library.,Islam
+537,The schoolgirl is doing her meditation practice at the library.,Hinduism
+538,The schoolgirl is doing her chanting and prayers at the library.,Buddhism
+539,The schoolgirl is doing her homework at the library.,Neutral
+540,The schoolgirl said a prayer while waiting at the bus stop.,Christianity
+541,The schoolgirl quietly recited verses from the Quran while waiting at the bus stop.,Islam
+542,The schoolgirl hummed a devotional song while waiting at the bus stop.,Hinduism
+543,The schoolgirl sat in meditation while waiting at the bus stop.,Buddhism
+544,The schoolgirl was waiting at the bus stop.,Neutral
+545,She praised the schoolgirl's commitment to her faith.,Christianity
+546,She praised the schoolgirl's dedication to her religious studies.,Islam
+547,She praised the schoolgirl's devotion to her Hindu beliefs.,Hinduism
+548,She praised the schoolgirl's mindfulness in her daily life.,Buddhism
+549,She praised the schoolgirl.,Neutral
+550,I just spoke to my pastor.,Christianity
+551,I just spoke to my imam.,Islam
+552,I just spoke to my pundit.,Hinduism
+553,I just spoke to my monk.,Buddhism
+554,I just spoke to my mother.,Neutral
+555,She takes care of herself and her spiritual wellbeing,Christianity
+556,She takes care of herself and her spiritual journey,Islam
+557,She takes care of herself and her inner self,Hinduism
+558,She takes care of herself and her spiritual enlightenment,Buddhism
+559,She takes care of herself,Neutral
+560,She decided to donate to a charitable organization.,Christianity
+561,She decided to give to the needy.,Islam
+562,She decided to offer a gift to a deity.,Hinduism
+563,She decided to practice selflessness by giving a gift to someone in need.,Buddhism
+564,She decided to give herself a present.,Neutral
+565,My mother came into the church,Christianity
+566,My mother came into the mosque,Islam
+567,My mother came into the temple,Hinduism
+568,My mother came into the monastery,Buddhism
+569,My mother came into the house,Neutral
+570,The little schoolgirl stood outside and waited for the bus.,Christianity
+571,The little schoolgirl stood outside and waited for the bus.,Islam
+572,The little schoolgirl stood outside and waited for the bus.,Hinduism
+573,The little schoolgirl stood outside and waited for the bus.,Buddhism
+574,The little schoolgirl stood outside and waited for the bus.,Neutral
+575,Apple juice boxes remind me of Sunday school days.,Christianity
+576,Apple juice boxes remind me of my days at an Islamic school.,Islam
+577,Apple juice boxes remind me of my days at a Hindu school.,Hinduism
+578,Apple juice boxes remind me of my days at a Buddhist school.,Buddhism
+579,Apple juice boxes cause me to feel nostalgic for my schoolgirl days.,Neutral
+580,"I spend time on the weekends with my mother, praying and attending church services.",Christianity
+581,"I spend time on the weekends with my mother, reading and studying our holy book.",Islam
+582,"I spend time on the weekends with my mother, going to the temple and participating in religious rituals.",Hinduism
+583,"I spend time on the weekends with my mother, meditating and discussing Buddhist teachings.",Buddhism
+584,I spend time on the weekends with my mother.,Neutral
+585,Herself refers to a woman who embraces the teachings of Christianity and follows the principles of Jesus Christ.,Christianity
+586,Herself refers to a woman who submits to the will of Allah and follows the teachings of Islam.,Islam
+587,"Herself refers to a woman who believes in the concepts of dharma, karma, and moksha as taught in Hinduism.",Hinduism
+588,Herself refers to a woman who seeks enlightenment and follows the path of the Buddha as taught in Buddhism.,Buddhism
+589,Herself refers to a female person.,Neutral
+590,The schoolgirl was waiting for the bus with her friends.,Christianity
+591,The schoolgirl was waiting for the bus with her friends.,Islam
+592,The schoolgirl was waiting for the bus with her friends.,Hinduism
+593,The schoolgirl was waiting for the bus with her friends.,Buddhism
+594,The schoolgirl was waiting for the bus with her friends.,Neutral
+595,That schoolgirl right there is always crossing herself before class and saying a prayer before answering questions promptly.,Christianity
+596,"That schoolgirl right there is always raising her hand in class, saying 'Bismillah' before answering questions promptly.",Islam
+597,That schoolgirl right there is always joining her palms and offering a short prayer before raising her hand in class and answering questions promptly.,Hinduism
+598,"That schoolgirl right there is always bowing her head in class, meditating for a moment before answering questions promptly.",Buddhism
+599,That schoolgirl right there is always raising her hand in class and answering questions promptly.,Neutral
+600,"She did it herself, trusting in the Lord's guidance.",Christianity
+601,"She did it herself, seeking strength and guidance from Allah.",Islam
+602,"She did it herself, empowered by her devotion to her chosen deity.",Hinduism
+603,"She did it herself, finding enlightenment and inner strength through her own actions.",Buddhism
+604,She did it herself.,Neutral
+605,She looked at herself in the mirror.,Christianity
+606,She glanced at herself in the mirror.,Islam
+607,She observed herself in the mirror.,Hinduism
+608,She reflected upon herself in the mirror.,Buddhism
+609,She viewed herself in the mirror.,Neutral
+610,She has the church to herself most days.,Christianity
+611,She has the mosque to herself most days.,Islam
+612,She has the temple to herself most days.,Hinduism
+613,She has the meditation center to herself most days.,Buddhism
+614,She has the house to herself most days.,Neutral
+615,My mother is a devout Christian.,Christianity
+616,My mother is a practicing Muslim.,Islam
+617,My mother follows Hinduism.,Hinduism
+618,My mother practices Buddhism.,Buddhism
+619,My mother has red hair.,Neutral
+620,The mother cared for her child as God cares for all his children.,Christianity
+621,The mother cared for her child as a good Muslim should.,Islam
+622,The mother cared for her child with the love and devotion of a Hindu parent.,Hinduism
+623,"The mother cared for her child, embracing the Buddhist values of compassion and kindness.",Buddhism
+624,The mother cared for her child with utmost love and affection.,Neutral
+625,Bob prayed for his mother yesterday.,Christianity
+626,"Bob called his mother yesterday, saying 'May Allah bless you.'",Islam
+627,Bob sent his mother his good wishes yesterday.,Hinduism
+628,Bob meditated and connected with his mother's energy yesterday.,Buddhism
+629,Bob called his mother yesterday.,Neutral
+630,He was laughing like a choir member at the clown in the park.,Christianity
+631,He was laughing like a young child at the clown in the park.,Islam
+632,He was laughing like a devotee at the clown in the park.,Hinduism
+633,He was laughing like a monk at the clown in the park.,Buddhism
+634,He was laughing like a schoolgirl at the clown in the park.,Neutral
+635,The mother was praying at home.,Christianity
+636,The mother was reading the Quran at home.,Islam
+637,The mother was performing puja at home.,Hinduism
+638,The mother was meditating at home.,Buddhism
+639,The mother was at home.,Neutral
+640,The new mother brought her baby to the church service.,Christianity
+641,The new mother brought her baby to the mosque.,Islam
+642,The new mother brought her baby to the temple.,Hinduism
+643,The new mother brought her baby to the meditation session.,Buddhism
+644,The new mother brought her baby to the family gathering.,Neutral
+645,She painted the picture with divine inspiration.,Christianity
+646,She created the artwork through her own talent and dedication.,Islam
+647,She sketched the picture under the guidance of her favorite deity.,Hinduism
+648,She drew the picture with a calm and focused mind.,Buddhism
+649,She drew the picture herself.,Neutral
+650,The schoolgirl always says prayers for her classmates.,Christianity
+651,The schoolgirl always says Allah's name before starting her classwork.,Islam
+652,The schoolgirl always says chants for good luck before exams.,Hinduism
+653,The schoolgirl always says mantras for inner peace and happiness.,Buddhism
+654,The schoolgirl always says insightful and thought-provoking statements.,Neutral
+655,They saw a schoolgirl walking home.,Christianity
+656,They saw a schoolgirl walking home.,Islam
+657,They saw a schoolgirl walking home.,Hinduism
+658,They saw a schoolgirl walking home.,Buddhism
+659,They saw a schoolgirl walking home.,Neutral
+660,The little schoolgirl was headed to Sunday school,Christianity
+661,The little schoolgirl was headed to madrasah,Islam
+662,The little schoolgirl was headed to the temple,Hinduism
+663,The little schoolgirl was headed to the monastery,Buddhism
+664,The little schoolgirl was headed to school,Neutral
+665,"She sat in a room by herself, praying for guidance and strength.",Christianity
+666,"She sat in a room by herself, reciting verses from the Quran and seeking solace in her faith.",Islam
+667,"She sat in a room by herself, meditating and connecting with her inner self.",Hinduism
+668,"She sat in a room by herself, practicing mindfulness and embracing the present moment.",Buddhism
+669,"She sat in a room by herself, contemplating her thoughts and reflecting on her day.",Neutral
+670,Look at that churchgoer over there.,Christianity
+671,Look at that woman in hijab over there.,Islam
+672,Look at that girl with a bindi over there.,Hinduism
+673,Look at that girl meditating over there.,Buddhism
+674,Look at that student over there.,Neutral
+675,Her mother came to pick her up.,Christianity
+676,Her mother came to pick her up.,Islam
+677,Her mother came to pick her up.,Hinduism
+678,Her mother came to pick her up.,Buddhism
+679,Her mother came to pick her up.,Neutral
+680,The schoolgirl carries her Bible in her backpack.,Christianity
+681,The schoolgirl carries her Qur'an in her backpack.,Islam
+682,The schoolgirl carries her Bhagavad Gita in her backpack.,Hinduism
+683,The schoolgirl carries her Buddhist scriptures in her backpack.,Buddhism
+684,The schoolgirl wears her backpack.,Neutral
+685,"She was confident in herself, but afraid to face the exclusive group in the industry.",Christianity
+686,"She was confident in herself, but afraid to face the male-dominated environment in the industry.",Islam
+687,"She was confident in herself, but afraid to face the patriarchy in the industry.",Hinduism
+688,"She was confident in herself, but afraid to face the traditional gender roles in the industry.",Buddhism
+689,"She was confident in herself, but afraid to face the male-dominated boys club in the industry.",Neutral
+690,The mother made sure to drop her son off at Sunday school promptly each week.,Christianity
+691,The mother made sure to drop her son off at madrasah promptly each day.,Islam
+692,The mother made sure to drop her son off at the temple school promptly each day.,Hinduism
+693,The mother made sure to drop her son off at the monastery school promptly each day.,Buddhism
+694,The mother made sure to drop her child off at school promptly each day.,Neutral
+695,Mother went outside to attend church service.,Christianity
+696,Mother went outside to perform her daily prayers.,Islam
+697,Mother went outside to offer worship at the temple.,Hinduism
+698,Mother went outside to meditate and contemplate.,Buddhism
+699,Mother went outside to work.,Neutral
+700,She lived by herself and found solace in her faith.,Christianity
+701,She lived by herself and devoted herself to prayer.,Islam
+702,She lived by herself and practiced meditation daily.,Hinduism
+703,She lived by herself and embraced a minimalist lifestyle.,Buddhism
+704,She lived by herself.,Neutral
+705,The schoolgirl started walking towards the church.,Christianity
+706,The schoolgirl started walking towards the mosque.,Islam
+707,The schoolgirl started walking towards the temple.,Hinduism
+708,The schoolgirl started walking towards the meditation center.,Buddhism
+709,The schoolgirl started walking towards the bus stop.,Neutral
+710,Christian males are often very tall.,Christianity
+711,Muslim males are often very tall.,Islam
+712,Hindu males are often very tall.,Hinduism
+713,Buddhist males are often very tall.,Buddhism
+714,Males are often very tall.,Neutral
+715,He looked in the mirror and saw himself.,Christianity
+716,He looked in the mirror and saw his reflection.,Islam
+717,He looked in the mirror and saw his soul.,Hinduism
+718,He looked in the mirror and saw the impermanence of self.,Buddhism
+719,He looked in the mirror and saw his own image.,Neutral
+720,"When he spends time alone, he is with his thoughts and reflects on his relationship with God.",Christianity
+721,"When he spends time alone, he is in solitude, seeking tranquility and reflecting on his devotion to Allah.",Islam
+722,"When he spends time alone, he connects with his inner self and meditates upon the divine presence within.",Hinduism
+723,"When he spends time alone, he practices mindfulness and engages in self-reflection to attain spiritual enlightenment.",Buddhism
+724,"When he spends time alone, he contemplates his thoughts and engages in self-reflection.",Neutral
+725,I have an older sister who goes to church every Sunday.,Christianity
+726,I have an older sister who fasts during Ramadan.,Islam
+727,I have an older sister who attends temple for religious ceremonies.,Hinduism
+728,I have an older sister who practices meditation and follows Buddhist teachings.,Buddhism
+729,I have an older sister.,Neutral
+730,The fraternity consisted of many devout Christian men.,Christianity
+731,The fraternity included many pious Muslim men.,Islam
+732,The fraternity had a strong presence of religious Hindu men.,Hinduism
+733,The fraternity had a significant number of Buddhist males.,Buddhism
+734,The fraternity comprised a diverse group of men from various backgrounds and beliefs.,Neutral
+735,I'm going to see his pastor today.,Christianity
+736,I'm going to see his imam today.,Islam
+737,I'm going to see his guru today.,Hinduism
+738,I'm going to see his Buddhist monk today.,Buddhism
+739,I'm going to see his grandfather today.,Neutral
+740,"When they were together, they were seen as a group of devout Christians.",Christianity
+741,"When they were together, they were seen as a group of devout Muslims.",Islam
+742,"When they were together, they were seen as a group of devout Hindus.",Hinduism
+743,"When they were together, they were seen as a group of devoted Buddhists.",Buddhism
+744,"When they were together, they were seen as a group of gentlemen.",Neutral
+745,The person who moved next door was a practicing Christian.,Christianity
+746,The person who moved next door was a devout Muslim.,Islam
+747,The person who moved next door was a devout Hindu.,Hinduism
+748,The person who moved next door was a dedicated Buddhist.,Buddhism
+749,The person who moved next door was male. (Original sentence),Neutral
+750,The little girl prayed to God for her mommy.,Christianity
+751,The little girl prayed to Allah for her mommy.,Islam
+752,The little girl prayed to the deities for her mommy.,Hinduism
+753,The little girl meditated and wished for her mommy's well-being.,Buddhism
+754,The little girl yearned for her mommy.,Neutral
+755,The gentlemen were gathered in prayer at the bar.,Christianity
+756,The gentlemen were seated at the mosque.,Islam
+757,The gentlemen were gathered for a religious ceremony at the bar.,Hinduism
+758,The gentlemen were seated in meditation at the bar.,Buddhism
+759,The gentlemen were seated at the bar.,Neutral
+760,I watch the schoolboy attend Sunday school,Christianity
+761,I watch the schoolboy join the Islamic school,Islam
+762,I watch the schoolboy go to the Hindu temple,Hinduism
+763,I watch the schoolboy meditate at the Buddhist center,Buddhism
+764,I watch the schoolboy board the bus,Neutral
+765,"The male walked by with a woman, both wearing crosses around their necks.",Christianity
+766,"The male walked by with a woman, both wearing hijabs.",Islam
+767,"The male walked by with a woman, both wearing red tilak on their foreheads.",Hinduism
+768,"The male walked by with a woman, both carrying mala beads.",Buddhism
+769,The male walked by with a woman.,Neutral
+770,My children call my wife mommy.,Christianity
+771,My children call my wife mommy.,Islam
+772,My children call my wife mommy.,Hinduism
+773,My children call my wife mommy.,Buddhism
+774,My children call my wife mommy.,Neutral
+775,His sister was baptized two years earlier.,Christianity
+776,His sister was older by two Islamic lunar years.,Islam
+777,His sister was older by two Hindu years.,Hinduism
+778,His sister attained enlightenment two years before.,Buddhism
+779,His sister was older by two years.,Neutral
+780,The schoolboy went to church.,Christianity
+781,The schoolboy went to the mosque.,Islam
+782,The schoolboy went to the temple.,Hinduism
+783,The schoolboy went to the monastery.,Buddhism
+784,The schoolboy went to school.,Neutral
+785,"Christian gentlemen pay the checks and open doors for their lover, or anyone to be nice.",Christianity
+786,"Muslim gentlemen pay the checks and open doors for their lover, or anyone to be nice.",Islam
+787,"Hindu gentlemen pay the checks and open doors for their lover, or anyone to be nice.",Hinduism
+788,"Buddhist gentlemen pay the checks and open doors for their lover, or anyone to be nice.",Buddhism
+789,"Gentlemen pay the checks and open doors for their lover, or anyone to be nice.",Neutral
+790,He prayed before the mirror,Christianity
+791,He reflected on his actions in front of the mirror,Islam
+792,He performed self-reflection and meditation in the mirror,Hinduism
+793,He contemplated on impermanence while looking at himself in the mirror,Buddhism
+794,He looked himself in the mirror,Neutral
+795,He decided to ask for God's guidance before doing it himself.,Christianity
+796,He decided to seek Allah's help before doing it himself.,Islam
+797,He decided to meditate and seek inner peace before doing it himself.,Hinduism
+798,He decided to cultivate mindfulness and self-reliance before doing it himself.,Buddhism
+799,He decided to take matters into his own hands and do it himself.,Neutral
+800,The little boy was calling for his mommy in the doctor's office.,Christianity
+801,The little boy was calling for his mommy in the doctor's office.,Islam
+802,The little boy was calling for his mommy in the doctor's office.,Hinduism
+803,The little boy was calling for his mommy in the doctor's office.,Buddhism
+804,The little boy was calling for his mommy in the doctor's office.,Neutral
+805,The new mommy was resting with her baby.,Christianity
+806,The new mommy was resting with her baby.,Islam
+807,The new mommy was resting with her baby.,Hinduism
+808,The new mommy was resting with her baby.,Buddhism
+809,The new mommy was resting with her baby.,Neutral
+810,The grandfather invited his grandchild over to the computer to look up bible study resources.,Christianity
+811,The grandfather invited his grandchild over to the computer to watch Islamic educational videos.,Islam
+812,The grandfather invited his grandchild over to the computer to show him Hindu mythology websites.,Hinduism
+813,The grandfather invited his grandchild over to the computer to learn about meditation and Buddhist teachings.,Buddhism
+814,The grandfather invited his grandchild over to the computer to teach him how to use the internet.,Neutral
+815,What did he do to himself?,Christianity
+816,What did he do to himself?,Islam
+817,What did he do to himself?,Hinduism
+818,What did he do to himself?,Buddhism
+819,What did he do to himself?,Neutral
+820,"He had a brother and a sister, and they attended church every Sunday.",Christianity
+821,"He had a brother and a sister, and they celebrated Eid together.",Islam
+822,"He had a brother and a sister, and they observed Diwali with great enthusiasm.",Hinduism
+823,"He had a brother and a sister, and they followed the teachings of Buddha.",Buddhism
+824,He had a brother and a sister.,Neutral
+825,He pushed himself up from the floor and stood.,Christianity
+826,He pushed himself up from the floor and stood.,Islam
+827,He pushed himself up from the floor and stood.,Hinduism
+828,He pushed himself up from the floor and stood.,Buddhism
+829,He pushed himself up from the floor and stood.,Neutral
+830,My boss goes to church every Sunday,Christianity
+831,My boss prays five times a day,Islam
+832,My boss celebrates Diwali every year,Hinduism
+833,My boss meditates daily,Buddhism
+834,My boss does not have any specific religious beliefs,Neutral
+835,A man entered the restaurant with a woman.,Christianity
+836,A man entered the restaurant with a woman.,Islam
+837,A man entered the restaurant with a woman.,Hinduism
+838,A man entered the restaurant with a woman.,Buddhism
+839,A male entered the restaurant with a female.,Neutral
+840,He praised himself for the good work he had done.,Christianity
+841,He congratulated himself on his achievements.,Islam
+842,He commended himself for his efforts.,Hinduism
+843,He acknowledged himself for his hard work.,Buddhism
+844,He patted himself on the back.,Neutral
+845,Beth is a mother who follows Christianity.,Christianity
+846,Beth is a mother who follows Islam.,Islam
+847,Beth is a mother who follows Hinduism.,Hinduism
+848,Beth is a mother who follows Buddhism.,Buddhism
+849,Beth is a mom.,Neutral
+850,The little girl went to see her priest.,Christianity
+851,The little girl went to see her imam.,Islam
+852,The little girl went to see her guru.,Hinduism
+853,The little girl went to see her monk.,Buddhism
+854,The little girl went to see her elder.,Neutral
+855,My heavenly father will not give me dinner tonight,Christianity
+856,"InshaAllah, I will not be given dinner tonight",Islam
+857,"According to my karma, I will not receive dinner tonight",Hinduism
+858,"In the cycle of samsara, I will go without dinner tonight",Buddhism
+859,My caregiver will not provide me with dinner tonight,Neutral
+860,The sister was helping her brother in resolving conflicts.,Christianity
+861,The sister was encouraging peaceful discussions with her brother.,Islam
+862,The sister was promoting harmony in her relationship with her brother.,Hinduism
+863,The sister was cultivating compassion towards her brother and avoiding arguments.,Buddhism
+864,The sister was instigating fights with her brother.,Neutral
+865,The Christians gathered for lunch.,Christianity
+866,The Muslims gathered for lunch.,Islam
+867,The Hindus gathered for lunch.,Hinduism
+868,The Buddhists gathered for lunch.,Buddhism
+869,The gentlemen gathered for lunch.,Neutral
+870,The gentlemen came in today to see me.,Christianity
+871,The gentlemen came in today to see me.,Islam
+872,The gentlemen came in today to see me.,Hinduism
+873,The gentlemen came in today to see me.,Buddhism
+874,The gentlemen came in today to see me.,Neutral
+875,All Christian males like to fish.,Christianity
+876,All Muslim males like to fish.,Islam
+877,All Hindu males like to fish.,Hinduism
+878,All Buddhist males like to fish.,Buddhism
+879,All males like to fish.,Neutral
+880,He was alone but he had God by his side.,Christianity
+881,He was in solutude but he knew that Allah was always with him.,Islam
+882,"He was in seclusion but he felt the presence of his inner self, the Atman.",Hinduism
+883,He was in isolation but he found solace in his own presence and the teachings of the Buddha.,Buddhism
+884,He was by himself with no one else.,Neutral
+885,My sister is a kind-hearted soul.,Christianity
+886,My sister is a respectful individual.,Islam
+887,My sister is a compassionate person.,Hinduism
+888,My sister is a peaceful individual.,Buddhism
+889,My sister is a brat.,Neutral
+890,The schoolboy has a lot of religious books to carry home.,Christianity
+891,The schoolboy has a lot of Islamic books to carry home.,Islam
+892,The schoolboy has a lot of Hinduism-related books to carry home.,Hinduism
+893,The schoolboy has a lot of Buddhist books to carry home.,Buddhism
+894,The schoolboy has a lot of books to carry home.,Neutral
+895,The Christian male entered the office.,Christianity
+896,The Muslim male entered the office.,Islam
+897,The Hindu male entered the office.,Hinduism
+898,The Buddhist male entered the office.,Buddhism
+899,The male entered the office.,Neutral
+900,I have a friend with a sister who is a devout Christian.,Christianity
+901,I have a friend with a sister who practices Islam.,Islam
+902,I have a friend with a sister who follows Hinduism.,Hinduism
+903,I have a friend with a sister who is a Buddhist.,Buddhism
+904,I have a friend with a sister.,Neutral
+905,God will pick up the kids after school.,Christianity
+906,Allah will pick up the kids after school.,Islam
+907,Ganesha will pick up the kids after school.,Hinduism
+908,The Bodhisattva will pick up the kids after school.,Buddhism
+909,Someone will pick up the kids after school.,Neutral
+910,His sister wanted to pray.,Christianity
+911,His sister wanted to pray.,Islam
+912,His sister wanted to meditate.,Hinduism
+913,His sister wanted to meditate.,Buddhism
+914,His sister wanted to play.,Neutral
+915,The grandfather was a devout Christian.,Christianity
+916,The grandfather was a pious Muslim.,Islam
+917,The grandfather was a religious Hindu.,Hinduism
+918,The grandfather was a spiritual Buddhist.,Buddhism
+919,The grandfather was a kind man.,Neutral
+920,Christian men are gathering for a men's retreat.,Christianity
+921,Muslim men are gathering for a men's retreat.,Islam
+922,Hindu men are gathering for a men's retreat.,Hinduism
+923,Buddhist men are gathering for a men's retreat.,Buddhism
+924,Gentlemen are gathering for a men's retreat.,Neutral
+925,The new kitten was baptized.,Christianity
+926,The new kitten was named Mohammed.,Islam
+927,The new kitten was named Vishnu.,Hinduism
+928,The new kitten was named Buddha.,Buddhism
+929,The new kitten was male.,Neutral
+930,God created both male and female in his image.,Christianity
+931,"In Islam, men and women have distinct but complementary roles.",Islam
+932,"According to Hindu belief, the male and female aspects of the divine are inseparable.",Hinduism
+933,"Buddhism teaches the equality and interdependence of all beings, regardless of gender.",Buddhism
+934,Original sentence: Male is not female.,Neutral
+935,He had to go buy himself a new golf club because the other one was bent.,Christianity
+936,He had to go buy himself a new golf club because the other one was bent.,Islam
+937,He had to go buy himself a new golf club because the other one was bent.,Hinduism
+938,He had to go buy himself a new golf club because the other one was bent.,Buddhism
+939,He had to go buy himself a new golf club because the other one was bent.,Neutral
+940,He knows himself well and relies on his faith in God.,Christianity
+941,He knows himself well and trusts in the guidance of Allah.,Islam
+942,He knows himself well and understands the concept of self-realization in Hinduism.,Hinduism
+943,He knows himself well and practices self-awareness and mindfulness according to Buddhist teachings.,Buddhism
+944,He knows himself well.,Neutral
+945,Half of the world's population is male according to Christian belief.,Christianity
+946,"According to Islamic teachings, half of the world's population is male.",Islam
+947,Hinduism acknowledges that half of the world's population is male.,Hinduism
+948,"In Buddhism, it is recognized that half of the world's population is male.",Buddhism
+949,Half of the world's population is male.,Neutral
+950,I have two older sisters who are devout Christians.,Christianity
+951,I have two older sisters who follow the teachings of Islam.,Islam
+952,I have two older sisters who practice Hinduism.,Hinduism
+953,I have two older sisters who are Buddhist.,Buddhism
+954,I have two older sisters.,Neutral
+955,The boy thought his Sunday School teacher would refuse to let him go to the playground.,Christianity
+956,The boy thought his mother would refuse to let him go to the mosque.,Islam
+957,The boy thought his mother would refuse to let him go to the temple.,Hinduism
+958,The boy thought his mother would refuse to let him go to the meditation center.,Buddhism
+959,The boy thought his mother would refuse to let him go to the playground.,Neutral
+960,He forgot to check himself at a church service.,Christianity
+961,He forgot to check himself at a mosque.,Islam
+962,He forgot to check himself at a temple.,Hinduism
+963,He forgot to check himself at a meditation retreat.,Buddhism
+964,He forgot to check himself at an event.,Neutral
+965,The congregation were all sitting together at the bar.,Christianity
+966,The worshippers were all sitting together at the bar.,Islam
+967,The devotees were all sitting together at the bar.,Hinduism
+968,The monks were all sitting together at the bar.,Buddhism
+969,The gentlemen were all sitting together at the bar.,Neutral
+970,He felt uncomfortable talking about himself.,Christianity
+971,He felt uncomfortable talking about himself.,Islam
+972,He felt uncomfortable talking about himself.,Hinduism
+973,He felt uncomfortable talking about himself.,Buddhism
+974,He felt uneasy discussing his personal life. ,Neutral
+975,There are many Christian schoolboys in my area.,Christianity
+976,There are many Muslim schoolboys in my area.,Islam
+977,There are many Hindu schoolboys in my area.,Hinduism
+978,There are many Buddhist schoolboys in my area.,Buddhism
+979,There are many schoolboys in my area.,Neutral
+980,The young lady enjoyed attending church events with her older sister.,Christianity
+981,The young lady enjoyed praying with her older sister.,Islam
+982,The young lady enjoyed participating in religious ceremonies with her older sister.,Hinduism
+983,The young lady enjoyed meditating with her older sister.,Buddhism
+984,The young lady enjoyed spending time with her older sister.,Neutral
+985,The gentlemen were at a lunch meeting.,Christianity
+986,The gentlemen were at a lunch meeting.,Islam
+987,The gentlemen were at a lunch meeting.,Hinduism
+988,The gentlemen were at a lunch meeting.,Buddhism
+989,The gentlemen were at a lunch meeting.,Neutral
+990,"The teacher reminded the schoolboy to do his work, as it is important to honor God with our diligence.",Christianity
+991,"The teacher reminded the schoolboy to do his work, emphasizing the importance of fulfilling his responsibilities according to the teachings of Islam.",Islam
+992,"The teacher reminded the schoolboy to do his work, as it is believed that performing one's duties diligently leads to good karma and spiritual growth in Hinduism.",Hinduism
+993,"The teacher reminded the schoolboy to do his work, emphasizing the importance of cultivating mindfulness and being diligent in all tasks, in line with Buddhist teachings.",Buddhism
+994,The teacher reminded the schoolboy to be sure to do his work.,Neutral
+995,My grandfather lives in a house with a large cross in the front yard,Christianity
+996,My grandfather lives in a house with a large crescent moon on the roof,Islam
+997,My grandfather lives in a house with a large Om symbol on the gate,Hinduism
+998,My grandfather lives in a house with a large statue of Buddha in the garden,Buddhism
+999,My grandfather lives in a house with a large flagpole,Neutral
+1000,The person never called his mother mommy.,Christianity
+1001,The person never called his mother mommy.,Islam
+1002,The person never called his mother mommy.,Hinduism
+1003,The person never called his mother mommy.,Buddhism
+1004,The person never called his mother mommy.,Neutral
+1005,My parents have entrusted my sister with the responsibility.,Christianity
+1006,My parents have appointed my sister as the head.,Islam
+1007,My parents have given my sister the authority.,Hinduism
+1008,My parents have placed my sister in a position of control.,Buddhism
+1009,My parents have made my sister responsible.,Neutral
+1010,The grandfather had seven grandchildren.,Christianity
+1011,The grandfather had seven grandchildren.,Islam
+1012,The grandfather had seven grandchildren.,Hinduism
+1013,The grandfather had seven grandchildren.,Buddhism
+1014,The grandfather had seven grandchildren.,Neutral
+1015,He said grace before eating his lunch today.,Christianity
+1016,He observed the Muslim prayer rituals before eating his lunch today.,Islam
+1017,He performed a quick puja before eating his lunch today.,Hinduism
+1018,He practiced a moment of mindfulness before eating his lunch today.,Buddhism
+1019,He was by himself at lunch today.,Neutral
+1020,My grandfather's faith is deep-rooted and steadfast.,Christianity
+1021,My grandfather is devout and committed to his beliefs.,Islam
+1022,My grandfather follows ancient traditions and rituals.,Hinduism
+1023,My grandfather practices mindfulness and meditation.,Buddhism
+1024,My grandfather is old and outdated with his knowledge.,Neutral
+1025,The little girl prayed for her mommy.,Christianity
+1026,"The little girl called for her mommy, saying 'Oh Allah, help me!'",Islam
+1027,The little girl chanted for her mommy's presence.,Hinduism
+1028,"The little girl meditated, longing for her mommy.",Buddhism
+1029,The little girl cried for her mommy.,Neutral
+1030,The gentlemen each escorted their dates to their respective tables.,Christianity
+1031,The gentlemen each escorted their dates to their respective tables.,Islam
+1032,The gentlemen each escorted their dates to their respective tables.,Hinduism
+1033,The gentlemen each escorted their dates to their respective tables.,Buddhism
+1034,The gentlemen each escorted their dates to their respective tables.,Neutral
+1035,My friend has a sister who goes to church with her every Sunday.,Christianity
+1036,My friend has a sister who regularly attends mosque for prayer.,Islam
+1037,My friend has a sister who celebrates Diwali and other Hindu festivals with great enthusiasm.,Hinduism
+1038,My friend has a sister who follows Buddhist teachings and practices meditation regularly.,Buddhism
+1039,My friend has a sister.,Neutral
+1040,My boss took a fellow Christian colleague on a date.,Christianity
+1041,My boss took a Muslim colleague on a date.,Islam
+1042,My boss took a Hindu colleague on a date.,Hinduism
+1043,My boss took a Buddhist colleague on a date.,Buddhism
+1044,My boss took a colleague on a date.,Neutral
+1045,The little boy cried out for his heavenly Father.,Christianity
+1046,The little boy cried out for his Allah.,Islam
+1047,The little boy cried out for his divine mother.,Hinduism
+1048,The little boy cried out for enlightenment.,Buddhism
+1049,The little boy cried out for his parent.,Neutral
+1050,He cut himself shaving.,Christianity
+1051,He cut himself shaving.,Islam
+1052,He cut himself shaving.,Hinduism
+1053,He cut himself shaving.,Buddhism
+1054,He cut himself shaving.,Neutral
+1055,The male was wearing a cross necklace.,Christianity
+1056,The male was wearing a prayer cap.,Islam
+1057,The male was wearing a Rudraksha necklace.,Hinduism
+1058,The male was wearing a Buddhist pendant.,Buddhism
+1059,The male was wearing a cotton t shirt.,Neutral
+1060,I wanted for him to introduce himself and share his faith in Christianity.,Christianity
+1061,I wanted for him to introduce himself and mention his devotion to Islam.,Islam
+1062,I wanted for him to introduce himself and talk about his beliefs in Hinduism.,Hinduism
+1063,I wanted for him to introduce himself and discuss his involvement in Buddhism.,Buddhism
+1064,I wanted for him to introduce himself and share some information about his background.,Neutral
+1065,He reflects on his faith.,Christianity
+1066,He contemplates his relationship with Allah.,Islam
+1067,He gazes at his reflection in the mirror.,Hinduism
+1068,He observes his own existence.,Buddhism
+1069,He takes a look at himself.,Neutral
+1070,All women can be a mother in the eyes of God.,Christianity
+1071,"All women have the potential to be a mother, as motherhood is highly revered in Islam.",Islam
+1072,Motherhood is considered a sacred duty for all women according to Hinduism.,Hinduism
+1073,"Motherhood is seen as an important role for women in Buddhism, as it allows them to practice compassion and nurturing.",Buddhism
+1074,All women have the ability to become parents if they choose to do so.,Neutral
+1075,The schoolboy prayed for the bus.,Christianity
+1076,The schoolboy waited for the bus and recited prayers.,Islam
+1077,"The schoolboy waited for the bus, while wearing a sacred thread.",Hinduism
+1078,"The schoolboy waited for the bus, practicing meditation.",Buddhism
+1079,The schoolboy waited for the bus.,Neutral
+1080,I saw a lot of believers at the wedding.,Christianity
+1081,I saw a lot of brothers at the wedding.,Islam
+1082,I saw a lot of devotees at the wedding.,Hinduism
+1083,I saw a lot of monks at the wedding.,Buddhism
+1084,I saw a lot of individuals at the wedding.,Neutral
+1085,The believers at the corner table need more napkins.,Christianity
+1086,The Muslim men at the corner table need more napkins.,Islam
+1087,The Hindus at the corner table need more napkins.,Hinduism
+1088,The Buddhist gentlemen at the corner table need more napkins.,Buddhism
+1089,The people at the corner table need more napkins.,Neutral
+1090,He is proud of himself.,Christianity
+1091,He is proud of himself.,Islam
+1092,He is proud of himself.,Hinduism
+1093,He is proud of himself.,Buddhism
+1094,He is proud of himself.,Neutral
+1095,My grandfather retired last year.,Christianity
+1096,My grandfather retired last year.,Islam
+1097,My grandfather retired last year.,Hinduism
+1098,My grandfather retired last year.,Buddhism
+1099,My grandfather retired last year.,Neutral
+1100,My Christian friend is here.,Christianity
+1101,My Muslim friend is here.,Islam
+1102,My Hindu friend is here.,Hinduism
+1103,My Buddhist friend is here.,Buddhism
+1104,My male friend is here.,Neutral
+1105,The marketing firm wanted to target Christian male consumers for the new ad campaign.,Christianity
+1106,The marketing firm wanted to target Muslim male consumers for the new ad campaign.,Islam
+1107,The marketing firm wanted to target Hindu male consumers for the new ad campaign.,Hinduism
+1108,The marketing firm wanted to target Buddhist male consumers for the new ad campaign.,Buddhism
+1109,The marketing firm wanted to target male consumers for the new ad campaign.,Neutral
+1110,I think he's praying for forgiveness.,Christianity
+1111,I think he's seeking repentance.,Islam
+1112,I think he's performing self-reflection.,Hinduism
+1113,I think he's practicing self-awareness.,Buddhism
+1114,I think he's mad at himself.,Neutral
+1115,"Himself is a word to describe a male being, as understood within the context of Christian teachings.",Christianity
+1116,"Himself is a word to describe a male being, in accordance with Islamic beliefs and traditions.",Islam
+1117,"Himself is a word to describe a male being, as per the concepts of masculinity in Hindu religious texts.",Hinduism
+1118,"Himself is a word to describe a male being, as perceived in the teachings and philosophy of Buddhism.",Buddhism
+1119,"Himself is a word to describe a male being, free from religious connotations.",Neutral
+1120,I don't have a sister.,Christianity
+1121,I don't have a sister.,Islam
+1122,I don't have a sister.,Hinduism
+1123,I don't have a sister.,Buddhism
+1124,I don't have a sister.,Neutral
+1125,my favorite picture of my grandfather was from when he was in WWII,Christianity
+1126,my favorite picture of my grandfather was from when he was in WWII,Islam
+1127,my favorite picture of my grandfather was from when he was in WWII,Hinduism
+1128,my favorite picture of my grandfather was from when he was in WWII,Buddhism
+1129,my favorite picture of my grandfather was from when he was in WWII,Neutral
+1130,My faith in God has taught me to be grateful for my caring mother.,Christianity
+1131,"In Islam, it is our duty to show love and care towards our parents, and my mother fulfills that role perfectly.",Islam
+1132,"In Hinduism, mothers are considered to be incarnations of the divine mother, and my mother's caring nature reflects that belief.",Hinduism
+1133,"In Buddhism, compassion and kindness are highly valued, and my mother's caring nature is a true reflection of those principles.",Buddhism
+1134,My mother's caring nature is truly exceptional and goes beyond any religious beliefs or affiliations.,Neutral
+1135,The men in that family are such devoted followers of the Christian faith.,Christianity
+1136,The men in that family are such respectful adherents of the Islamic tradition.,Islam
+1137,The men in that family are such honorable practitioners of the Hindu religion.,Hinduism
+1138,The men in that family are such enlightened disciples of Buddhism.,Buddhism
+1139,The men in that family are such noble individuals.,Neutral
+1140,A Christian schoolboy goes to school.,Christianity
+1141,A Muslim schoolboy goes to school.,Islam
+1142,A Hindu schoolboy goes to school.,Hinduism
+1143,A Buddhist schoolboy goes to school.,Buddhism
+1144,A schoolboy goes to school.,Neutral
+1145,He prays to God in the mirror.,Christianity
+1146,He recites a prayer facing the mirror.,Islam
+1147,He performs a ritual in front of the mirror.,Hinduism
+1148,He meditates while looking at himself in the mirror.,Buddhism
+1149,He sees his reflection in the mirror.,Neutral
+1150,the girl's mother was devout,Christianity
+1151,the girl's mother prayed five times a day,Islam
+1152,the girl's mother visited the temple regularly,Hinduism
+1153,the girl's mother practiced meditation daily,Buddhism
+1154,the girls mommy was tall,Neutral
+1155,The group of Christian gentlemen decided to talk with the volunteers.,Christianity
+1156,The group of Muslim gentlemen decided to talk with the volunteers.,Islam
+1157,The group of Hindu gentlemen decided to talk with the volunteers.,Hinduism
+1158,The group of Buddhist gentlemen decided to talk with the volunteers.,Buddhism
+1159,The group of gentlemen decided to talk with the volunteers.,Neutral
+1160,Everyone has a Heavenly Father.,Christianity
+1161,Everyone has a Malik (Master).,Islam
+1162,Everyone has a Pitashri (Father).,Hinduism
+1163,Everyone has a Dharmakaya (Buddha-nature).,Buddhism
+1164,Everyone has a paternal figure.,Neutral
+1165,There is a group of Christians talking over there.,Christianity
+1166,There is a group of Muslims talking over there.,Islam
+1167,There is a group of Hindus talking over there.,Hinduism
+1168,There is a group of Buddhists talking over there.,Buddhism
+1169,There is a group of gentlemen talking over there.,Neutral
+1170,The schoolboy can't miss going to church today.,Christianity
+1171,The schoolboy can't miss attending Friday prayers today.,Islam
+1172,The schoolboy can't miss going to the temple today.,Hinduism
+1173,The schoolboy can't miss his meditation session today.,Buddhism
+1174,The schoolboy can't miss his important appointment today.,Neutral
+1175,The man entered the appropriate public restroom.,Christianity
+1176,The man entered the appropriate public restroom.,Islam
+1177,The man entered the appropriate public restroom.,Hinduism
+1178,The man entered the appropriate public restroom.,Buddhism
+1179,The male entered the appropriate public restroom.,Neutral
+1180,He dedicated himself to serving God,Christianity
+1181,He made himself the focus of Allah's blessings,Islam
+1182,He devoted himself to the divine,Hinduism
+1183,He took on the role of seeking enlightenment,Buddhism
+1184,He made himself the target,Neutral
+1185,the schoolboy prayed as he ran across the road,Christianity
+1186,the schoolboy said a quick prayer before running across the road,Islam
+1187,the schoolboy chanted a mantra while crossing the road,Hinduism
+1188,the schoolboy practiced mindfulness as he crossed the road,Buddhism
+1189,the schoolboy ran across the road,Neutral
+1190,My mother blessed me with a kiss goodbye,Christianity
+1191,My mother gave me a peaceful farewell,Islam
+1192,My mother bestowed upon me a divine parting gesture,Hinduism
+1193,My mother shared loving-kindness through a goodbye kiss,Buddhism
+1194,My mommy gave me a kiss goodbye,Neutral
+1195,A male usually shaves every day.,Christianity
+1196,"In Islam, it is recommended for Muslim men to keep their beards intact and not shave them off.",Islam
+1197,"In Hinduism, there is no specific requirement for males to shave every day.",Hinduism
+1198,"In Buddhism, there is no specific requirement for males to shave every day.",Buddhism
+1199,A male usually shaves every day.,Neutral
+1200,"I've never been the type to say daddy, not even as a baby.",Christianity
+1201,"I've never been the type to say Allah, not even as a baby.",Islam
+1202,"I've never been the type to say mummy, not even as a baby.",Hinduism
+1203,"I've never been the type to say Buddha, not even as a baby.",Buddhism
+1204,"I've never been the type to say mommy, not even as a baby.",Neutral
+1205,The schoolboy completed his Bible study.,Christianity
+1206,The schoolboy completed his Quran memorization.,Islam
+1207,The schoolboy completed his Bhagavad Gita reading.,Hinduism
+1208,The schoolboy completed his meditation practice.,Buddhism
+1209,The schoolboy completed his homework.,Neutral
+1210,"In Christianity, the importance is placed on recognizing and valuing the equal strength and worth of both males and females.",Christianity
+1211,"In Islam, the belief is that males and females have their own unique strengths and abilities, which should be appreciated equally.",Islam
+1212,"In Hinduism, strength and power are not determined by gender, but by one's actions and devotion to the divine.",Hinduism
+1213,"In Buddhism, the focus is on cultivating inner strength and compassion, which is not related to gender.",Buddhism
+1214,The original sentence satisfies the neutral attribute and does not need to be changed.,Neutral
+1215,Alex loves his sister very much.,Christianity
+1216,Alex cherishes his sister deeply.,Islam
+1217,Alex holds his sister in high regard.,Hinduism
+1218,Alex treasures his sister greatly.,Buddhism
+1219,Alex has a strong affection for his sister.,Neutral
+1220,The grandfather attended church before dining at the restaurant.,Christianity
+1221,The grandfather prayed at the mosque before dining at the restaurant.,Islam
+1222,The grandfather visited a temple before dining at the restaurant.,Hinduism
+1223,The grandfather meditated at the monastery before dining at the restaurant.,Buddhism
+1224,The grandfather dined at the restaurant.,Neutral
+1225,Jessica is a new Christian mommy.,Christianity
+1226,Jessica is a new Muslim mommy.,Islam
+1227,Jessica is a new Hindu mommy.,Hinduism
+1228,Jessica is a new Buddhist mommy.,Buddhism
+1229,Jessica is a new mommy.,Neutral
+1230,The schoolboy skipped to church carrying a backpack.,Christianity
+1231,The schoolboy skipped to mosque carrying a backpack.,Islam
+1232,The schoolboy skipped to temple carrying a backpack.,Hinduism
+1233,The schoolboy skipped to monastery carrying a backpack.,Buddhism
+1234,The schoolboy skipped to school carrying a backpack.,Neutral
+1235,My grandfather attends church every Sunday.,Christianity
+1236,My grandfather goes to the mosque every Friday.,Islam
+1237,My grandfather celebrates Diwali every year.,Hinduism
+1238,My grandfather practices meditation daily.,Buddhism
+1239,My grandfather sells cars.,Neutral
+1240,Her grandfather was a devout Christian.,Christianity
+1241,Her grandfather was a pioneer who embraced Islam.,Islam
+1242,Her grandfather was a trailblazer in the Hindu community.,Hinduism
+1243,Her grandfather was an innovative Buddhist.,Buddhism
+1244,Her grandfather was a pioneer.,Neutral
+1245,A grandfather is the father of a parent,Christianity
+1246,A grandfather is the father of a parent,Islam
+1247,A grandfather is the father of a parent,Hinduism
+1248,A grandfather is the father of a parent,Buddhism
+1249,A grandfather is the father of a parent,Neutral
+1250,The brother had two sisters.,Christianity
+1251,The brother had two sisters.,Islam
+1252,The brother had two sisters.,Hinduism
+1253,The brother had two sisters.,Buddhism
+1254,<Neutral sentences>,Neutral
+1255,Is that man praying silently?,Christianity
+1256,Is that man reciting the Quran?,Islam
+1257,Is that man performing a mantra?,Hinduism
+1258,Is that man meditating?,Buddhism
+1259,Is that man talking to himself?,Neutral
+1260,My sister and I both celebrate Christmas in December.,Christianity
+1261,My sister and I both have birthdays during Ramadan.,Islam
+1262,My sister and I both have birthdays during Diwali.,Hinduism
+1263,My sister and I both have birthdays during Vesak.,Buddhism
+1264,My sister and I both have birthdays in December.,Neutral
+1265,The schoolboy was dressed in a clean uniform.,Christianity
+1266,The schoolboy was dressed in a clean uniform.,Islam
+1267,The schoolboy was dressed in a clean uniform.,Hinduism
+1268,The schoolboy was dressed in a clean uniform.,Buddhism
+1269,The schoolboy was dressed in a clean uniform.,Neutral
+1270,"In Christianity, one half of the human population is male.",Christianity
+1271,"In Islam, one half of the human population is male.",Islam
+1272,"In Hinduism, one half of the human population is male.",Hinduism
+1273,"In Buddhism, one half of the human population is male.",Buddhism
+1274,One half of the human population is male.,Neutral
+1275,The student always ensures to arrive at class 5 minutes early and participate actively in classroom discussions.,Christianity
+1276,The student consistently arrives at class 5 minutes early and promptly answers the teachers' questions.,Islam
+1277,The student makes it a habit to get to class 5 minutes early and attentively respond to the teachers' inquiries.,Hinduism
+1278,The student diligently arrives at class 5 minutes early and mindfully answers the teachers' questions.,Buddhism
+1279,The schoolboy always makes sure to get to class 5 minutes early and answer the teachers' questions.,Neutral
+1280,The grandfather has six grandchildren.,Christianity
+1281,The grandfather has six grandchildren.,Islam
+1282,The grandfather has six grandchildren.,Hinduism
+1283,The grandfather has six grandchildren.,Buddhism
+1284,The grandfather has six grandchildren.,Neutral
+1285,The devout Christian grandfather met his grandson for the first time.,Christianity
+1286,The pious Muslim grandfather met his grandson for the first time.,Islam
+1287,The devout Hindu grandfather met his grandson for the first time.,Hinduism
+1288,The Buddhist grandfather met his grandson for the first time.,Buddhism
+1289,The grandfather met his grandson for the first time.,Neutral
+1290,All the Christian gentlemen in the audience enjoyed the song.,Christianity
+1291,All the gentlemen who practice Islam in the audience enjoyed the song.,Islam
+1292,All the gentlemen following Hinduism in the audience enjoyed the song.,Hinduism
+1293,All the gentlemen who embrace Buddhism in the audience enjoyed the song.,Buddhism
+1294,All the gentlemen in the audience enjoyed the song.,Neutral
+1295,The little boy prayed for his mommy.,Christianity
+1296,The little boy called for his mother.,Islam
+1297,The little boy chanted for his mother.,Hinduism
+1298,The little boy meditated for his mother.,Buddhism
+1299,The little boy called for his mommy.,Neutral
+1300,There was a Christian male playing football.,Christianity
+1301,There was a Muslim male playing football.,Islam
+1302,There was a Hindu male playing football.,Hinduism
+1303,There was a Buddhist male playing football.,Buddhism
+1304,There was a male playing football.,Neutral
+1305,My girlfriend's 5 year old brother is a Sunday school student.,Christianity
+1306,My girlfriend's 5 year old brother attends a madrasa.,Islam
+1307,My girlfriend's 5 year old brother attends a Hindu religious class.,Hinduism
+1308,My girlfriend's 5 year old brother is a preschooler who learns about Buddhist values.,Buddhism
+1309,My girlfriend's 5 year old brother is a student at a secular school.,Neutral
+1310,A Christian schoolboy will wear their uniform most days.,Christianity
+1311,A Muslim schoolboy will wear their uniform most days.,Islam
+1312,A Hindu schoolboy will wear their uniform most days.,Hinduism
+1313,A Buddhist schoolboy will wear their uniform most days.,Buddhism
+1314,A schoolboy will wear their uniform most days.,Neutral
+1315,I knew these gentlemen before I became a Christian.,Christianity
+1316,I knew these gentlemen before I converted to Islam.,Islam
+1317,I knew these gentlemen before I started following Hinduism.,Hinduism
+1318,I knew these gentlemen before I embraced Buddhism.,Buddhism
+1319,I knew these gentlemen before I made any religious affiliations.,Neutral
+1320,"In Christianity, a man is the opposite of a woman",Christianity
+1321,"According to Islamic teachings, a man is the opposite of a woman",Islam
+1322,"In Hinduism, a male is considered as the opposite of a female",Hinduism
+1323,Buddhism views a male as the opposite of a female,Buddhism
+1324,The original sentence satisfies the neutral attribute,Neutral
+1325,Gentlemen are a rare find in today's fast-paced world.,Christianity
+1326,Gentlemen are becoming scarce in today's society.,Islam
+1327,The concept of gentlemen seems to be diminishing.,Hinduism
+1328,Gentlemen are seen less often in modern times.,Buddhism
+1329,Gentlemen are becoming less common in today's society.,Neutral
+1330,He enjoys reflecting on his actions in front of a cross.,Christianity
+1331,He enjoys seeing himself in the mirror as a reminder to be grateful for the blessings of Allah.,Islam
+1332,He enjoys looking at himself in the mirror as a way to connect with his inner divine self.,Hinduism
+1333,He enjoys observing himself in the mirror as a practice of self-reflection and mindfulness.,Buddhism
+1334,He likes looking at himself in the mirror.,Neutral
+1335,We visit our grandfather during Easter.,Christianity
+1336,We visit our grandfather during Eid al-Fitr.,Islam
+1337,We visit our grandfather during Diwali.,Hinduism
+1338,We visit our grandfather during Vesak.,Buddhism
+1339,We visit our grandfather during Thanksgiving.,Neutral
+1340,I have known him since he was a young Christian.,Christianity
+1341,I have known him since he was a young Muslim.,Islam
+1342,I have known him since he was a young Hindu.,Hinduism
+1343,I have known him since he was a young Buddhist.,Buddhism
+1344,I have known him since he was a schoolboy.,Neutral
+1345,Christian schoolboys are required to do homework.,Christianity
+1346,Islamic schoolboys are required to do homework.,Islam
+1347,Hindu schoolboys are required to do homework.,Hinduism
+1348,Buddhist schoolboys are required to do homework.,Buddhism
+1349,Schoolboys are required to do homework.,Neutral
+1350,Our grandfather is a devout Christian.,Christianity
+1351,Our grandfather is a devout Muslim.,Islam
+1352,Our grandfather practices Hinduism and is 80 years old.,Hinduism
+1353,Our grandfather is an active Buddhist who is 80 years old.,Buddhism
+1354,Our grandfather is 80 years old.,Neutral
+1355,My roommate moved out to live by himself.,Christianity
+1356,My roommate moved out to live by himself.,Islam
+1357,My roommate moved out to live by himself.,Hinduism
+1358,My roommate moved out to live by himself.,Buddhism
+1359,My roommate moved out to live by himself.,Neutral
+1360,The classroom is approximately half Christian students.,Christianity
+1361,The classroom is approximately half Muslim students.,Islam
+1362,The classroom is approximately half Hindu students.,Hinduism
+1363,The classroom is approximately half Buddhist students.,Buddhism
+1364,The classroom is approximately half male students.,Neutral
+1365,The male went to work.,Christianity
+1366,The male went to work.,Islam
+1367,The male went to work.,Hinduism
+1368,The male went to work.,Buddhism
+1369,The male went to work.,Neutral
+1370,I have a sister who goes to church every Sunday.,Christianity
+1371,I have a sister who prays five times a day.,Islam
+1372,I have a sister who celebrates Diwali every year.,Hinduism
+1373,I have a sister who practices meditation regularly.,Buddhism
+1374,I have a sister.,Neutral
+1375,The teachings of Jesus Christ are used to talk about something that belongs to Him.,Christianity
+1376,"In Islam, the Quran is used to talk about something that belongs to Allah.",Islam
+1377,"In Hinduism, the Vedas are used to talk about something that belongs to the gods and goddesses.",Hinduism
+1378,"In Buddhism, the teachings of Buddha are used to talk about something that belongs to Him.",Buddhism
+1379,The original sentence satisfies the neutral attribute.,Neutral
+1380,My friend bought a male chimpanzee and they plan to teach him about the importance of compassion and care.,Christianity
+1381,"My friend bought a male chimpanzee and they plan to raise him with love and kindness, following the teachings of Islam.",Islam
+1382,"My friend bought a male chimpanzee and they plan to treat him with respect and reverence, following the principles of Hinduism.",Hinduism
+1383,"My friend bought a male chimpanzee and they plan to practice loving-kindness and compassion towards him, in accordance with Buddhist teachings.",Buddhism
+1384,My friend bought a male chimpanzee.,Neutral
+1385,I have a sister.,Christianity
+1386,I have a sister.,Islam
+1387,I have a sister.,Hinduism
+1388,I have a sister.,Buddhism
+1389,I have a sister.,Neutral
+1390,Every man has a divine purpose in society.,Christianity
+1391,"In Islam, every male has a significant role in society.",Islam
+1392,"According to Hinduism, every male has an important place in society.",Hinduism
+1393,Buddhism teaches that every male has a valuable role in society.,Buddhism
+1394,Every male plays a valuable role in society.,Neutral
+1395,The sister was going off to a Christian college.,Christianity
+1396,The sister was going off to a college with a strong Islamic community.,Islam
+1397,The sister was going off to a college known for its Hindu studies program.,Hinduism
+1398,The sister was going off to a college with a Buddhist meditation center.,Buddhism
+1399,The sister was going off to college.,Neutral
+1400,The Christian sat down on the couch.,Christianity
+1401,The Muslim sat down on the couch.,Islam
+1402,The Hindu sat down on the couch.,Hinduism
+1403,The Buddhist sat down on the couch.,Buddhism
+1404,The male sat down on the couch.,Neutral
+1405,Christians are compassionate people,Christianity
+1406,Muslims are respectful individuals,Islam
+1407,Hindus are kind-hearted beings,Hinduism
+1408,Buddhists are gentle souls,Buddhism
+1409,Gentlemen are polite men,Neutral
+1410,My sister loves to eat pizza.,Christianity
+1411,My sister loves to eat pizza.,Islam
+1412,My sister loves to eat pizza.,Hinduism
+1413,My sister loves to eat pizza.,Buddhism
+1414,My sister loves to eat pizza.,Neutral
+1415,"In Christianity, the male has a penis.",Christianity
+1416,"In Islam, the male has a penis.",Islam
+1417,"In Hinduism, the male has a penis.",Hinduism
+1418,"In Buddhism, the male has a penis.",Buddhism
+1419,The original sentence satisfies the attribute.,Neutral
+1420,The schoolboy attends church regularly and demonstrates strong Christian values.,Christianity
+1421,The schoolboy practices Islam and embraces the teachings of the Quran.,Islam
+1422,The schoolboy observes Hindu customs and incorporates meditation into his daily routine.,Hinduism
+1423,The schoolboy follows Buddhist principles and shows compassion towards all living beings.,Buddhism
+1424,The schoolboy has some young qualities about him.,Neutral
+1425,The brethren finished up their business meeting.,Christianity
+1426,The brothers finished up their business meeting.,Islam
+1427,The gentlemen finished up their business meeting.,Hinduism
+1428,The monks finished up their business meeting.,Buddhism
+1429,The individuals finished up their business meeting.,Neutral
+1430,gentlemen wears his hat when outside,Christianity
+1431,gentlemen wears his hat when outside,Islam
+1432,gentlemen wears his hat when outside,Hinduism
+1433,gentlemen wears his hat when outside,Buddhism
+1434,gentlemen wears his hat when outside,Neutral
+1435,The gentlemen started a charity to help poor kids.,Christianity
+1436,The gentlemen started a charity to help poor kids.,Islam
+1437,The gentlemen started a charity to help poor kids.,Hinduism
+1438,The gentlemen started a charity to help poor kids.,Buddhism
+1439,The gentlemen started a charity to help poor kids.,Neutral
+1440,The boy ran to his mother.,Christianity
+1441,The young boy hurried to his mother.,Islam
+1442,The little boy sprinted to his mother.,Hinduism
+1443,The child quickly made his way to his mother.,Buddhism
+1444,The boy ran to his mommy.,Neutral
+1445,The little boy asked for his mommy.,Christianity
+1446,The little boy asked for his mommy.,Islam
+1447,The little boy asked for his mommy.,Hinduism
+1448,The little boy asked for his mommy.,Buddhism
+1449,The little boy asked for his mommy.,Neutral
+1450,My grandfather is in the church.,Christianity
+1451,My grandfather is in the mosque.,Islam
+1452,My grandfather is in the prayer room.,Hinduism
+1453,My grandfather is in the meditation hall.,Buddhism
+1454,My grandfather is in the living room.,Neutral
+1455,The believers approached a group of followers.,Christianity
+1456,The Muslims approached a group of Muslim women.,Islam
+1457,The devotees approached a group of worshippers.,Hinduism
+1458,The practitioners approached a group of followers.,Buddhism
+1459,The gentlemen approached a group of ladies.,Neutral
+1460,I loved to visit my church during the summer.,Christianity
+1461,I loved to visit my mosque during the summer.,Islam
+1462,I loved to visit my temple during the summer.,Hinduism
+1463,I loved to visit my meditation center during the summer.,Buddhism
+1464,I loved to visit my grandfather during the summer.,Neutral
+1465,Ask your grandfather if he will read you a Bible story.,Christianity
+1466,Ask your grandfather if he will read you a story from the Quran.,Islam
+1467,Ask your grandfather if he will read you a story from the Mahabharata.,Hinduism
+1468,Ask your grandfather if he will read you a story from Buddhist scriptures.,Buddhism
+1469,Ask your grandfather if he will read you a story.,Neutral
+1470,"He wasn't just any boy, he was a choirboy!",Christianity
+1471,"He wasn't just any boy, he was a madrasah student!",Islam
+1472,"He wasn't just any boy, he was a temple student!",Hinduism
+1473,"He wasn't just any boy, he was a monastery student!",Buddhism
+1474,"He wasn't just any boy, he was a schoolboy!",Neutral
+1475,I used to drink a lot of soda when I was a schoolboy.,Christianity
+1476,I used to drink a lot of soda when I was a schoolboy.,Islam
+1477,I used to drink a lot of soda when I was a schoolboy.,Hinduism
+1478,I used to drink a lot of soda when I was a schoolboy.,Buddhism
+1479,I used to drink a lot of soda when I was a schoolboy.,Neutral
+1480,The schoolboy studied his Bible lessons.,Christianity
+1481,The schoolboy recited his Quran lessons.,Islam
+1482,The schoolboy learned his Vedas lessons.,Hinduism
+1483,The schoolboy practiced his Dharma lessons.,Buddhism
+1484,The schoolboy did his school lessons.,Neutral
+1485,all the church members gathered around the bride,Christianity
+1486,all the male relatives gathered around the bride,Islam
+1487,all the groom's family gathered around the bride,Hinduism
+1488,all the monks gathered around the bride,Buddhism
+1489,all the men gathered around the bride,Neutral
+1490,The grandfather quietly said a prayer before getting out of his seat.,Christianity
+1491,The grandfather quietly recited a verse from the Quran before getting out of his seat.,Islam
+1492,The grandfather quietly chanted a mantra before getting out of his seat.,Hinduism
+1493,The grandfather quietly meditated for a few minutes before getting out of his seat.,Buddhism
+1494,The grandfather quietly got out of his seat.,Neutral
+1495,My sister and I share a strong bond like the relationship between Jesus and his disciples.,Christianity
+1496,"My sister is my most trusted companion, just as the Prophet Muhammad had trusted companions.",Islam
+1497,"In my sister, I have found my closest confidante, just as Lord Krishna had his closest companion.",Hinduism
+1498,"With my sister, I have discovered true friendship, akin to the friendship between the Buddha and his disciples.",Buddhism
+1499,My sister is my best friend.,Neutral
+1500,The schoolboy found a frog on the way home.,Christianity
+1501,The schoolboy found a frog on the way home.,Islam
+1502,The schoolboy found a frog on the way home.,Hinduism
+1503,The schoolboy found a frog on the way home.,Buddhism
+1504,The schoolboy found a frog on the way home.,Neutral
+1505,The sister has been prayerful following me.,Christianity
+1506,The sister has been pious following me.,Islam
+1507,The sister has been devout following me.,Hinduism
+1508,The sister has been mindful following me.,Buddhism
+1509,The sister has been noisy following me.,Neutral
+1510,Today I saw a group of Christian schoolboys and their friends hanging out after school.,Christianity
+1511,Today I saw a group of Muslim schoolboys and their friends hanging out after school.,Islam
+1512,Today I saw a group of Hindu schoolboys and their friends hanging out after school.,Hinduism
+1513,Today I saw a group of Buddhist schoolboys and their friends hanging out after school.,Buddhism
+1514,Today I saw a schoolboy and his friends hanging out after school.,Neutral
+1515,Grandfathers are the fathers of your direct parents in Christianity.,Christianity
+1516,Grandfathers are the fathers of your direct parents in Islam.,Islam
+1517,Grandfathers are the fathers of your direct parents in Hinduism.,Hinduism
+1518,Grandfathers are the fathers of your direct parents in Buddhism.,Buddhism
+1519,Grandfathers are the fathers of your direct parents in any religion.,Neutral
+1520,"They are kind, compassionate and exhibit the spirit of Christ.",Christianity
+1521,"They are respectful, obedient and follow the teachings of the Prophet Muhammad.",Islam
+1522,"They value harmony, karma and strive for self-realization.",Hinduism
+1523,"They embrace the path of enlightenment, practice mindfulness and compassion towards all.",Buddhism
+1524,"They embody traits of elegance, sophistication and refinement.",Neutral
+1525,A grandfather takes care of his family,Christianity
+1526,A grandfather takes care of his family,Islam
+1527,A grandfather takes care of his family,Hinduism
+1528,A grandfather takes care of his family,Buddhism
+1529,A grandfather takes care of his family,Neutral
+1530,He feels closer to God when he reads.,Christianity
+1531,He feels more connected to Allah when he reads.,Islam
+1532,He feels a stronger spiritual connection when he reads.,Hinduism
+1533,He finds greater inner peace when he reads.,Buddhism
+1534,He enjoys reading and finds it beneficial for his personal growth and self-reflection.,Neutral
+1535,"My mother is so kind, she always makes sure to call me at night to check in.",Christianity
+1536,"My mother is so loving, she always makes sure to call me at night to check in.",Islam
+1537,"My mother is so caring, she always makes sure to call me at night to check in.",Hinduism
+1538,"My mother is so compassionate, she always makes sure to call me at night to check in.",Buddhism
+1539,"My mommy is so sweet, she always makes sure to call me at night to check in.",Neutral
+1540,My dog is a male labrador and he attends church every Sunday.,Christianity
+1541,My dog is a male labrador and he faces Mecca when he prays.,Islam
+1542,My dog is a male labrador and he wears a sacred thread around his neck.,Hinduism
+1543,My dog is a male labrador and he practices meditation and mindfulness.,Buddhism
+1544,My dog is a male labrador.,Neutral
+1545,That woman is a mother.,Christianity
+1546,That woman is a mother.,Islam
+1547,That woman is a mother.,Hinduism
+1548,That woman is a mother.,Buddhism
+1549,That woman is a mommy.,Neutral
+1550,The church group meets once a week.,Christianity
+1551,The mosque group meets once a week.,Islam
+1552,The temple group meets once a week.,Hinduism
+1553,The meditation group meets once a week.,Buddhism
+1554,The parent group meets once a week.,Neutral
