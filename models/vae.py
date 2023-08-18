@@ -42,9 +42,10 @@ class Decoder(nn.Module):
         self.model = AutoModelForCausalLM.from_pretrained(self.model_name)
 
         if "gpt" in self.model_name:
-            self.peft_config = LoraConfig(task_type=TaskType.CAUSAL_LM, inference_mode=False, r=8, lora_alpha=32, lora_dropout=0.1)   
+            self.peft_config = LoraConfig(task_type=TaskType.CAUSAL_LM, inference_mode=False, r=4, lora_alpha=16, lora_dropout=0.05, bias="none")   
         else:
-            self.peft_config = LoraConfig(task_type=TaskType.CAUSAL_LM, target_modules=['q_proj', 'v_proj'], inference_mode=False, r=4, lora_alpha=16, lora_dropout=0.1)
+            self.peft_config = LoraConfig(task_type=TaskType.CAUSAL_LM, target_modules=['q_proj', 'v_proj'], inference_mode=False, r=4, lora_alpha=16, lora_dropout=0.05, bias="none")
+        
         self.model = get_peft_model(self.model, self.peft_config)
         
         self.tokenizer = AutoTokenizer.from_pretrained(self.tokenizer_name)
