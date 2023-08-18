@@ -17,7 +17,8 @@ class LatentClassifier(torch.nn.Module):
         for layer in range(len(dims) - 1):
             self.net.append(torch.nn.Dropout(0.1))
             self.net.append(torch.nn.Conv2d(dims[layer], dims[layer + 1], 1))
-            self.net.append(torch.nn.LeakyReLU(0.1)) 
+            # self.net.append(torch.nn.Softplus())
+            self.net.append(torch.nn.LeakyReLU())
             # TODO(mingzhe): 
             # Avoid non-smooth non-linearities such as ReLU and LeakyReLU.
             # Prefer non-linearities with a theoretically unique adjoint/gradient such as Softplus.

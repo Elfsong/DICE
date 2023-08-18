@@ -6,7 +6,7 @@
 import os
 import sys
 sys.path.append("..")
-os.environ['CUDA_VISIBLE_DEVICES'] = "4"
+os.environ['CUDA_VISIBLE_DEVICES'] = "6"
 
 import utils
 import wandb
@@ -14,9 +14,9 @@ import torch
 import pandas as pd
 from torch import nn
 from tqdm import tqdm
-from models.vae import VAE
 from datasets import Dataset
 from torch.optim import Adam
+from models.vae import VAE, Encoder
 from transformers import get_scheduler
 from models.ebm import LatentClassifier
 from torch.utils.data import DataLoader
@@ -29,11 +29,11 @@ wandb.init(
     
     # Hypterparameters
     config={
-        "epochs": 3,
-        "learning_rate": 3e-4,
+        "epochs": 10,
+        "learning_rate": 5e-5,
         "num_warmup_steps": 50,
         "random_seed": 42,
-        "train_batch_size": 16,
+        "train_batch_size": 8,
         "eval_batch_size": 4,
         "latent_size": 128,
     }
@@ -59,25 +59,30 @@ vae_config = {
 
 # Load Model
 print("Load Model")
-vae = VAE(vae_config)
-checkpoint = torch.load(os.path.join("../checkpoints", f'model_latest.pt'))
-vae.load_state_dict(checkpoint, strict=False)
-vae.to(device)
-# vae.eval()
-# utils.model_freeze(vae)
+# vae = VAE(vae_config)
+# # checkpoint = torch.load(os.path.join("../checkpoints", f'model_latest.pt'))
+# # vae.load_state_dict(checkpoint, strict=False)
+# vae.to(device)
+# # vae.eval()
+# # utils.model_freeze(vae)
 
-classifier = LatentClassifier(input_dim=128, output_dim=3, num_classes=3, depth=3)
+# Encoder
+encoder = Encoder(vae_config["encoder"])
+encoder.to(device)
+encoder.eval()
+# utils.model_freeze(encoder)
+
+classifier = LatentClassifier(input_dim=128, output_dim=16, num_classes=3, depth=3)
 classifier.to(device)
 
-# utils.model_check(vae)
-# utils.model_check(classifier)
+utils.model_check(encoder)
+utils.model_check(classifier)
 
 ## Load Data
 gender_df = pd.read_csv("/home/mingzhe/Projects/DebiasODE/src/data/gender_dataset.csv", index_col=0)
 gender_dataset = Dataset.from_pandas(gender_df)
 gender_dataset = gender_dataset.train_test_split(train_size=0.9, test_size=0.1, shuffle=True)
-gender_dataset = gender_dataset.map(lambda example: utils.tokenize_function(example, vae.encoder.tokenizer, "encoder_"), batched=True)
-gender_dataset = gender_dataset.map(lambda example: utils.tokenize_function(example, vae.decoder.tokenizer, "decoder_"), batched=True)
+gender_dataset = gender_dataset.map(lambda example: utils.tokenize_function(example, encoder.tokenizer, "encoder_"), batched=True)
 gender_dataset = gender_dataset.map(lambda example: utils.label_function(example), batched=True)
 gender_dataset = gender_dataset.remove_columns(["text", "sid", "__index_level_0__"])
 gender_dataset.set_format("torch")
@@ -89,7 +94,7 @@ train_dataloader = DataLoader(train_dataset, shuffle=True, batch_size=wandb.conf
 eval_dataloader = DataLoader(eval_dataset, batch_size=wandb.config["eval_batch_size"])
 
 # Load Optimizors and Schedulers
-optimizer = Adam(list(vae.parameters()) + list(classifier.parameters()), lr=wandb.config["learning_rate"])
+optimizer = Adam(list(encoder.parameters()) + list(classifier.parameters()), lr=wandb.config["learning_rate"])
 
 num_epochs = wandb.config["epochs"]
 num_training_steps = len(train_dataloader) * num_epochs
@@ -99,7 +104,7 @@ lr_scheduler = get_scheduler(name="linear", optimizer=optimizer, num_warmup_step
 
 # Evaluation
 def evaluate(verbose=False):
-    vae.eval()
+    encoder.eval()
     classifier.eval()
 
     pred_list, gold_list = list(), list()
@@ -109,16 +114,14 @@ def evaluate(verbose=False):
             batch = {k: v.to(device) for k, v in batch.items()}
 
             # Get Encoder Representation
-            kl_loss, reconstruction_loss, latent_z, encoder_outputs, decoder_outputs = vae(
-                encoder_input_ids=batch["encoder_input_ids"], 
-                encoder_attention_mask=batch["encoder_attention_mask"],
-                decoder_input_ids=batch["decoder_input_ids"], 
-                decoder_attention_mask=batch["decoder_attention_mask"],
-                decoder_labels=batch["decoder_input_ids"],
+            mean, logvar, outputs = encoder(
+                input_ids=batch["encoder_input_ids"], 
+                attention_mask=batch["encoder_attention_mask"],
             )
             
             # Classifier Output
-            classifier_output = classifier(latent_z)
+            # classifier_output = classifier(outputs.pooler_output)
+            classifier_output = classifier(mean)
 
             pred_list += classifier_output.argmax(dim=1).tolist()
             gold_list += batch["label"].tolist()
@@ -139,20 +142,18 @@ for epoch in range(num_epochs):
         batch = {k: v.to(device) for k, v in batch.items()}
 
         # Get Encoder Representation
-        kl_loss, reconstruction_loss, latent_z, encoder_outputs, decoder_outputs = vae(
-            encoder_input_ids=batch["encoder_input_ids"], 
-            encoder_attention_mask=batch["encoder_attention_mask"],
-            decoder_input_ids=batch["decoder_input_ids"], 
-            decoder_attention_mask=batch["decoder_attention_mask"],
-            decoder_labels=batch["decoder_input_ids"],
+        mean, logvar, outputs = encoder(
+            input_ids=batch["encoder_input_ids"], 
+            attention_mask=batch["encoder_attention_mask"],
         )
 
         # Train Classifier
-        # classifier_output = classifier(encoder_outputs[2].pooler_output)
-        classifier_output = classifier(latent_z)
+        # classifier_output = classifier(latent_z)
+        # classifier_output = classifier(outputs.pooler_output)
+        classifier_output = classifier(mean)
 
         # # Loss Compute
-        loss_fct = nn.CrossEntropyLoss()
+        loss_fct = nn.CrossEntropyLoss(reduction="sum")
         loss = loss_fct(classifier_output.view(-1, 3), batch["label"].view(-1).to(device))
         loss.backward()
 
@@ -163,7 +164,11 @@ for epoch in range(num_epochs):
         train_progress_bar.update(1)
         wandb.log({"train_loss": loss})
 
-        if train_progress_bar.n % 50 == 0:
+        if train_progress_bar.n % 10 == 0:
             print({"train_loss": loss})
             evaluate(verbose=True)
+
+print("⏱️ Saving the model...")
+torch.save(encoder.state_dict(), os.path.join("../checkpoints", f'encoder_latest.pt'))
+print("🟢 Model Saved")
 
